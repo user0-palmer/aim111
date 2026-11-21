@@ -1,0 +1,748 @@
+project_code,allocation_year,prime_partner,prime_partner_type,subpartner,subpartner_type_id,subpartner_type,subgrant_usd
+UKR-19/UKR_CBPF/SA1/WASH-P/INGO/13773,2019,Save the Children Fund,International NGO,Charitable Foundation Donbas Development Center,3,National NGO,43362.5
+UKR-20/UKR_CBPF/RA1/COVID-19/INGO/15730,2020,Medicos del Mundo,International NGO,"Primary Medical Sanitary Assistance Centre 1, Donetsk region",5,"Other (e.g. faith-based, institutions)",7375.0
+UKR-20/UKR_CBPF/RA1/COVID-19/INGO/15730,2020,Medicos del Mundo,International NGO,"Primary Medical Sanitary Assistance Centre 1, Luhansk region",5,"Other (e.g. faith-based, institutions)",7375.0
+UKR-20/UKR_CBPF/RA1/COVID-19/INGO/15730,2020,Medicos del Mundo,International NGO,"Primary Medical Sanitary Assistance Centre 2, Luhansk region",5,"Other (e.g. faith-based, institutions)",7375.0
+UKR-20/UKR_CBPF/RA1/COVID-19/INGO/15730,2020,Medicos del Mundo,International NGO,"Primary Medical Sanitary Assistance Centre 3, Luhansk region",5,"Other (e.g. faith-based, institutions)",7375.0
+UKR-20/UKR_CBPF/RA1/COVID-19/INGO/15730,2020,Medicos del Mundo,International NGO,"Primary Medical Sanitary Assistance Centre 4, Luhansk region",5,"Other (e.g. faith-based, institutions)",7375.0
+UKR-20/UKR_CBPF/RA1/COVID-19/INGO/15730,2020,Medicos del Mundo,International NGO,"Primary Medical Sanitary Assistance Centre 5, Luhansk region",5,"Other (e.g. faith-based, institutions)",7375.0
+UKR-20/UKR_CBPF/RA1/COVID-19/INGO/15730,2020,Medicos del Mundo,International NGO,"Primary Medical Sanitary Assistance Centre 6, Luhansk region",5,"Other (e.g. faith-based, institutions)",7375.0
+UKR-20/UKR_CBPF/RA1/COVID-19/INGO/15730,2020,Medicos del Mundo,International NGO,"Primary Medical Sanitary Assistance Centre 7, Luhansk region",5,"Other (e.g. faith-based, institutions)",7375.0
+UKR-20/UKR_CBPF/RA1/COVID-19/NGO/15736,2020,ICF Caritas Ukraine,National NGO,CF Caritas Kramatorsk,3,National NGO,106352.0
+UKR-20/UKR_CBPF/RA1/COVID-19/NGO/15736,2020,ICF Caritas Ukraine,National NGO,CF Caritas Mariupol,3,National NGO,106619.0
+UKR-20/UKR_CBPF/RA1/COVID-19/NGO/15736,2020,ICF Caritas Ukraine,National NGO,CF Caritas Severodonetsk,3,National NGO,110109.0
+UKR-20/UKR_CBPF/RA1/COVID-19/NGO/15736,2020,ICF Caritas Ukraine,National NGO,CF Caritas Zaporizhya,3,National NGO,107050.0
+UKR-20/UKR_CBPF/SA1/CSS/INGO/16136,2020,Agency for Technical Cooperation and Development,International NGO,IMPACT Initiatives,2,International NGO,58900.8
+UKR-20/UKR_CBPF/SA1/H-N-P-WASH/INGO/17845,2020,Norwegian Refugee Council,International NGO,The Branch Office of Medicos del Mundo Espana in Ukraine”,2,International NGO,387850.47
+UKR-20/UKR_CBPF/SA1/H-N-P-WASH/INGO/17845,2020,Norwegian Refugee Council,International NGO,“Charity Foundation “Stabilization Support Services”,3,National NGO,140000.0
+UKR-20/UKR_CBPF/SA1/H-N-P-WASH/INGO/17845,2020,Norwegian Refugee Council,International NGO,Coordination Centre on Legal Aid Provision,5,"Other (e.g. faith-based, institutions)",29760.0
+UKR-20/UKR_CBPF/SA1/H-N/UN/16186,2020,United Nations Children's Fund,UN Agency,Charitable Organisation Charitable Fund “Donbass Development Center”,3,National NGO,6500.0
+UKR-20/UKR_CBPF/SA1/P-CSS-WASH/INGO/17645,2020,Agency for Technical Cooperation and Development,International NGO,IMPACT Initiatives,2,International NGO,17775.0
+UKR-20/UKR_CBPF/SA1/P-CSS-WASH/INGO/17645,2020,Agency for Technical Cooperation and Development,International NGO,Right to Protection,3,National NGO,174361.0
+UKR-20/UKR_CBPF/SA1/P-CSS-WASH/INGO/17645,2020,Agency for Technical Cooperation and Development,International NGO,Danish Red Cross,4,Unknown,357854.0
+UKR-20/UKR_CBPF/SA1/S-NFI-P/UN/17545,2020,United Nations High Commissioner for Refugees,UN Agency,Donbass Development Centre,3,National NGO,129771.0
+UKR-20/UKR_CBPF/SA1/S-NFI/INGO/17501,2020,Save the Children Fund,International NGO,Charitable Organisation Charitable Fund “Donbass Development Center”,3,National NGO,16165.8
+UKR-20/UKR_CBPF/SA1/WASH-CSS-FSL/INGO/16133,2020,Save the Children Fund,International NGO,Charitable Foundation Donbas Development Center,3,National NGO,39802.53
+UKR-20/UKR_CBPF/SA1/WASH-E-H-N/UN/17536,2020,United Nations Children's Fund,UN Agency,Donbass Development Centre,3,National NGO,330230.0
+UKR-20/UKR_CBPF/SA1/WASH/INGO/16141,2020,Première Urgence Internationale,International NGO,Donbass Development Centre,3,National NGO,3784.24
+UKR-20/UKR_CBPF/SA1/WASH/INGO/16963,2020,Danish Refugee Council,International NGO,CF Caritas Mariupol,3,National NGO,17199.14
+UKR-20/UKR_CBPF/SA1/WASH/INGO/16963,2020,Danish Refugee Council,International NGO,Charitable foundation 'HUMANITARIAN AID AND DEVELOPMENT CENTER',3,National NGO,112702.03
+UKR-20/UKR_CBPF/SA1/WASH/NGO/17493,2020,Charity Foundation “NEW WAY”,National NGO,International Children`s Fund `Mira`,3,National NGO,32234.85
+UKR-21/UKR_CBPF/RA3/E-P/INGO/18487,2021,Save the Children Fund,International NGO,Charitable Foundation Donbas Development Center,3,National NGO,127291.19
+UKR-21/UKR_CBPF/RA3/E-P/UN/18486,2021,United Nations Children's Fund,UN Agency,Charitable Foundation Donbas Development Center,3,National NGO,10000.0
+UKR-21/UKR_CBPF/RA3/E-P/UN/18486,2021,United Nations Children's Fund,UN Agency,Charitable Organisation “International Charitable Fund “Water Research Fund”,3,National NGO,225000.0
+UKR-21/UKR_CBPF/RA3/E-P/UN/18486,2021,United Nations Children's Fund,UN Agency,CSO Response and Development,3,National NGO,150034.09
+UKR-21/UKR_CBPF/SA3/FSL-WASH/INGO/20127,2021,Triangle Generation Humanitaire,International NGO,ICF Mira,3,National NGO,284442.09
+UKR-21/UKR_CBPF/SA3/H-N/INGO/19930,2021,Medicos del Mundo,International NGO,Mission Kharkiv,3,National NGO,25000.0
+UKR-21/UKR_CBPF/SA3/P-E/INGO/19943,2021,Save the Children Fund,International NGO,Charitable Foundation 'Slavic Heart',3,National NGO,117483.32
+UKR-21/UKR_CBPF/SA3/P-FSL-E-H-N/NGO/19932,2021,Ukrainian Deminers Association,National NGO,Croatia Support,2,International NGO,0.0
+UKR-21/UKR_CBPF/SA3/P-FSL-E-H-N/NGO/19932,2021,Ukrainian Deminers Association,National NGO,Airlight,3,National NGO,450000.0
+UKR-21/UKR_CBPF/SA3/P-FSL-E-H-N/NGO/19932,2021,Ukrainian Deminers Association,National NGO,Mykolaiv  Regional Charitable Foundation 'Regional Foundation Blagochestya',3,National NGO,99963.0
+UKR-21/UKR_CBPF/SA3/P-FSL/INGO/19936,2021,People in Need,International NGO,Posmishka,3,National NGO,150396.0
+UKR-21/UKR_CBPF/SA3/S-NFI-FSL-WASH/INGO/19942,2021,Save the Children Fund,International NGO,Charitable Organisation Charitable Fund “Donbass Development Center”,3,National NGO,15941.24
+UKR-21/UKR_CBPF/SA3/S-NFI-P/UN/19954,2021,United Nations High Commissioner for Refugees,UN Agency,Donbass Development Centre,3,National NGO,34290.0
+UKR-21/UKR_CBPF/SA3/WASH-FSL-S-NFI/INGO/19834,2021,Polish Humanitarian Action,International NGO,ICF Mira,3,National NGO,399714.5
+UKR-21/UKR_CBPF/SA3/WASH/NGO/19925,2021,ICF Caritas Ukraine,National NGO,Caritas Mykolaiv,3,National NGO,6393.69
+UKR-21/UKR_CBPF/SA3/WASH/NGO/19925,2021,ICF Caritas Ukraine,National NGO,CF Caritas Mariupol,3,National NGO,33482.72
+UKR-21/UKR_CBPF/SA3/WASH/NGO/19931,2021,Charity Foundation “NEW WAY”,National NGO,ICF Mira,3,National NGO,36019.14
+UKR-22/UKR_CBPF/RA1/FSL/UN/21353,2022,International Organization for Migration,UN Agency,Donbass Development Centre,3,National NGO,25000.0
+UKR-22/UKR_CBPF/RA1/FSL/UN/21363,2022,Food and Agriculture Organization of the United Nations,UN Agency,Agricultural Advisory Services,3,National NGO,0.0
+UKR-22/UKR_CBPF/RA1/FSL/UN/21363,2022,Food and Agriculture Organization of the United Nations,UN Agency,Charitable Foundation Center For Social Development 'Bridge',3,National NGO,0.0
+UKR-22/UKR_CBPF/RA1/FSL/UN/21363,2022,Food and Agriculture Organization of the United Nations,UN Agency,IPs be identified at the inception of the project (Act 1.1.1),3,National NGO,66872.0
+UKR-22/UKR_CBPF/RA1/FSL/UN/21363,2022,Food and Agriculture Organization of the United Nations,UN Agency,Public Association “Kharkiv Regional Center of Advice” (KRCA),3,National NGO,24128.0
+UKR-22/UKR_CBPF/RA1/H-N/INGO/21375,2022,Medicos del Mundo,International NGO,Charitable organization CF Spodivannya,3,National NGO,33000.0
+UKR-22/UKR_CBPF/RA1/H-N/INGO/21375,2022,Medicos del Mundo,International NGO,Mission Kharkiv,3,National NGO,33000.0
+UKR-22/UKR_CBPF/RA1/WASH/INGO/21350,2022,Première Urgence Internationale,International NGO,Charitable Organisation Charitable Fund “Donbass Development Center”,3,National NGO,91000.0
+UKR-22/UKR_CBPF/RA2/CSS-FSL-P-S-NFI-WASH/INGO/21581,2022,Agency for Technical Cooperation and Development,International NGO,IMPACT Initiatives,2,International NGO,176245.5
+UKR-22/UKR_CBPF/RA2/CSS-FSL-P-S-NFI-WASH/INGO/21581,2022,Agency for Technical Cooperation and Development,International NGO,Right to Protection,3,National NGO,546854.0
+UKR-22/UKR_CBPF/RA2/FSL-WASH/INGO/21579,2022,People in Need,International NGO,Helpage International,2,International NGO,952758.0
+UKR-22/UKR_CBPF/RA2/FSL-WASH/INGO/21579,2022,People in Need,International NGO,Right to Protection,3,National NGO,529264.98
+UKR-22/UKR_CBPF/RA2/FSL/INGO/21668,2022,Estonian Refugee Council,International NGO,Unity for the Future / ??????????? ??????????? ???? ??????? ?? ????????,3,National NGO,913532.0
+UKR-22/UKR_CBPF/RA2/H-P/INGO/21639,2022,INTERSOS,International NGO,Soleterre,2,International NGO,52400.0
+UKR-22/UKR_CBPF/RA2/H-P/INGO/21639,2022,INTERSOS,International NGO,Zaporuka Foundation,3,National NGO,190850.0
+UKR-22/UKR_CBPF/RA2/H/INGO/21725,2022,Foundazione di Religione “Opera San Francesco Saverio” - Collegio Universitario Aspiranti Medici Missionari - C.U.A.M.M.,International NGO,Volonterskiy ruh Bukovyny,3,National NGO,96899.0
+UKR-22/UKR_CBPF/RA2/H/UN/21629,2022,International Organization for Migration,UN Agency,UK-Med,2,International NGO,384000.0
+UKR-22/UKR_CBPF/RA2/H/UN/21629,2022,International Organization for Migration,UN Agency,Medcover,3,National NGO,192000.0
+UKR-22/UKR_CBPF/RA2/H/UN/21629,2022,International Organization for Migration,UN Agency,MedOk,3,National NGO,192000.0
+UKR-22/UKR_CBPF/RA2/H/UN/21629,2022,International Organization for Migration,UN Agency,Sheptytsky Hospital,3,National NGO,192000.0
+UKR-22/UKR_CBPF/RA2/P/INGO/21654,2022,Triangle Generation Humanitaire,International NGO,CF «ICF «V YEDNOSTI NASHA SYLA»,3,National NGO,40000.0
+UKR-22/UKR_CBPF/RA2/P/INGO/21654,2022,Triangle Generation Humanitaire,International NGO,Implementing Partner,3,National NGO,0.0
+UKR-22/UKR_CBPF/RA2/P/INGO/21654,2022,Triangle Generation Humanitaire,International NGO,Posmishka UA,3,National NGO,0.0
+UKR-22/UKR_CBPF/RA2/P/INGO/21654,2022,Triangle Generation Humanitaire,International NGO,Public Organization Avalyst,3,National NGO,172000.0
+UKR-22/UKR_CBPF/RA2/P/INGO/21654,2022,Triangle Generation Humanitaire,International NGO,Slavic Heart,3,National NGO,80000.0
+UKR-22/UKR_CBPF/RA2/P/NGO/21577,2022,Ukrainian Deminers Association,National NGO,Airlight,3,National NGO,125507.0
+UKR-22/UKR_CBPF/RA2/S-NFI-FSL-P/NGO/21642,2022,ICF Caritas Ukraine,National NGO,Caritas Kolomyia,3,National NGO,149736.91
+UKR-22/UKR_CBPF/RA2/S-NFI-FSL-P/NGO/21642,2022,ICF Caritas Ukraine,National NGO,Caritas Nadvirna,3,National NGO,302207.61
+UKR-22/UKR_CBPF/RA2/S-NFI-FSL-P/NGO/21642,2022,ICF Caritas Ukraine,National NGO,Caritas Sambir-Drohobych Diocese UGCC,3,National NGO,100058.91
+UKR-22/UKR_CBPF/RA2/S-NFI-FSL-P/NGO/21642,2022,ICF Caritas Ukraine,National NGO,Caritas Sokal,3,National NGO,52601.32
+UKR-22/UKR_CBPF/RA2/S-NFI-FSL-P/NGO/21642,2022,ICF Caritas Ukraine,National NGO,Caritas Stryi,3,National NGO,62450.8
+UKR-22/UKR_CBPF/RA2/S-NFI-FSL-P/NGO/21642,2022,ICF Caritas Ukraine,National NGO,Caritas Zhovkva,3,National NGO,133693.91
+UKR-22/UKR_CBPF/RA2/S-NFI-FSL-P/NGO/21642,2022,ICF Caritas Ukraine,National NGO,Caritas Zhytomyr,3,National NGO,89267.07
+UKR-22/UKR_CBPF/RA2/WASH-E-CSS/UN/21655,2022,United Nations Children's Fund,UN Agency,Solidarite International,2,International NGO,1235825.22
+UKR-22/UKR_CBPF/RA3/E-P/INGO/21915,2022,AVSI Foundation,International NGO,Emmaus NGO,3,National NGO,589939.5
+UKR-22/UKR_CBPF/RA3/E/INGO/21890,2022,Street Child,International NGO,Airlight,3,National NGO,108150.0
+UKR-22/UKR_CBPF/RA3/E/INGO/21890,2022,Street Child,International NGO,For the Future of Ukraine,3,National NGO,107025.0
+UKR-22/UKR_CBPF/RA3/E/INGO/21890,2022,Street Child,International NGO,NGO 'Proliska',3,National NGO,0.0
+UKR-22/UKR_CBPF/RA3/E/INGO/21890,2022,Street Child,International NGO,NGO Resource Center,3,National NGO,30300.0
+UKR-22/UKR_CBPF/RA3/E/INGO/21890,2022,Street Child,International NGO,Ridni,3,National NGO,81700.0
+UKR-22/UKR_CBPF/RA3/E/INGO/21890,2022,Street Child,International NGO,Womens Consortium of Ukraine,3,National NGO,105855.0
+UKR-22/UKR_CBPF/RA3/FSL-WASH-H-CSS/INGO/21891,2022,Internationale Gesellschaft für Menschenrechte,International NGO,Information and Analytical Center of the International Society for Human Rights,3,National NGO,334959.76
+UKR-22/UKR_CBPF/RA3/FSL/UN/21913,2022,Food and Agriculture Organization of the United Nations,UN Agency,IPs be identified at the inception of the project (Act 1.1.1),3,National NGO,248819.99
+UKR-22/UKR_CBPF/RA3/H/INGO/21904,2022,Foundazione di Religione “Opera San Francesco Saverio” - Collegio Universitario Aspiranti Medici Missionari - C.U.A.M.M.,International NGO,Volonterskiy ruh Bukovyny,3,National NGO,12000.0
+UKR-22/UKR_CBPF/RA3/MPC/INGO/21882,2022,Estonian Refugee Council,International NGO,Unity for the Future / ??????????? ??????????? ???? ??????? ?? ????????,3,National NGO,957554.0
+UKR-22/UKR_CBPF/RA3/MPC/INGO/21889,2022,Fondazione We World - GVC Onlus,International NGO,Law and Democracy,3,National NGO,410408.99
+UKR-22/UKR_CBPF/RA3/MPC/INGO/21894,2022,Cooperative Housing Foundation,International NGO,Society 'Ukrainian Peoples House in Chernivtsi',3,National NGO,38500.0
+UKR-22/UKR_CBPF/RA3/MPC/NGO/21912,2022,ICF Caritas Ukraine,National NGO,Caritas Khmelnytskiy,3,National NGO,98013.43
+UKR-22/UKR_CBPF/RA3/MPC/NGO/21912,2022,ICF Caritas Ukraine,National NGO,Caritas Poltava,3,National NGO,74044.43
+UKR-22/UKR_CBPF/RA3/P/UN/21892,2022,United Nations Population Fund,UN Agency,Innovative Social Solutions NGO,3,National NGO,336000.0
+UKR-22/UKR_CBPF/RA3/P/UN/21892,2022,United Nations Population Fund,UN Agency,Internews,3,National NGO,25000.0
+UKR-22/UKR_CBPF/RA4/FSL/UN/23122,2022,Food and Agriculture Organization of the United Nations,UN Agency,IPs be identified at the inception of the project (Act 1.1.1),3,National NGO,97800.0
+UKR-22/UKR_CBPF/RA4/S-NFI/INGO/22936,2022,INTERSOS,International NGO,Myrne Nebo,3,National NGO,141949.0
+UKR-22/UKR_CBPF/RA4/S-NFI/INGO/22936,2022,INTERSOS,International NGO,Studrespublika,3,National NGO,8100.0
+UKR-22/UKR_CBPF/RA4/S-NFI/INGO/23007,2022,Polish Humanitarian Action,International NGO,Charitable foundation 'HUMANITARIAN AID AND DEVELOPMENT CENTER',3,National NGO,434918.0
+UKR-22/UKR_CBPF/RA4/S-NFI/INGO/23123,2022,Fondazione Terre des Hommes Italia ETS,International NGO,Center for Social Communication,3,National NGO,30000.0
+UKR-22/UKR_CBPF/RA4/S-NFI/NGO/23039,2022,Dorcas Aid International Transcarpathia,National NGO,ZOA,2,International NGO,456331.98
+UKR-22/UKR_CBPF/RA4/S-NFI/UN/22983,2022,International Organization for Migration,UN Agency,Centre STATUM,3,National NGO,0.0
+UKR-22/UKR_CBPF/RA4/S-NFI/UN/22983,2022,International Organization for Migration,UN Agency,Charity organization 'Charity Foundation 'Vostok SOS',3,National NGO,0.0
+UKR-22/UKR_CBPF/RA4/S-NFI/UN/22983,2022,International Organization for Migration,UN Agency,Implementation of Ideas,3,National NGO,20000.0
+UKR-22/UKR_CBPF/RA4/S-NFI/UN/22983,2022,International Organization for Migration,UN Agency,New Way,3,National NGO,16800.0
+UKR-22/UKR_CBPF/RA4/S-NFI/UN/22983,2022,International Organization for Migration,UN Agency,POKROVSK CENTER OF CRISIS SUPPORT “JOINTLY”/Spilno,3,National NGO,0.0
+UKR-22/UKR_CBPF/RA4/S-NFI/UN/22983,2022,International Organization for Migration,UN Agency,Posmishka UA,3,National NGO,40000.0
+UKR-22/UKR_CBPF/RA4/S-NFI/UN/22983,2022,International Organization for Migration,UN Agency,Right to Protection,3,National NGO,0.0
+UKR-22/UKR_CBPF/RA4/S-NFI/UN/22983,2022,International Organization for Migration,UN Agency,Rotary Club Kyiv International,3,National NGO,0.0
+UKR-22/UKR_CBPF/SA1/CCM-P/NGO/23574,2022,CHARITABLE ORGANIZATION 'ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS',National NGO,AGENCY FOR SUSTAINABLE DEVELOPMENT OF THE CITY,3,National NGO,120460.0
+UKR-22/UKR_CBPF/SA1/CCM-P/NGO/23574,2022,CHARITABLE ORGANIZATION 'ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS',National NGO,CHARITABLE ORGANIZATION &quot;ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS&quot;,3,National NGO,69500.0
+UKR-22/UKR_CBPF/SA1/CCM-P/NGO/23574,2022,CHARITABLE ORGANIZATION 'ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS',National NGO,CO 100% LIFE RIVNE,3,National NGO,279705.5
+UKR-22/UKR_CBPF/SA1/CCM-P/NGO/23574,2022,CHARITABLE ORGANIZATION 'ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS',National NGO,The non-governmental organization 'Integration Center',3,National NGO,65000.0
+UKR-22/UKR_CBPF/SA1/CCM-P/NGO/23575,2022,Ukrainian Deminers Association,National NGO,ALPS Resilience Ukraine (Partner),2,International NGO,322902.0
+UKR-22/UKR_CBPF/SA1/E-P/INGO/23478,2022,AVSI Foundation,International NGO,Emmaus NGO,3,National NGO,559180.0
+UKR-22/UKR_CBPF/SA1/E-S-NFI/INGO/23523,2022,Save the Children Fund,International NGO,Charitable Organisation Charitable Fund “Donbass Development Center”,3,National NGO,653302.7
+UKR-22/UKR_CBPF/SA1/E/INGO/23506,2022,Street Child,International NGO,Airlight,3,National NGO,243030.0
+UKR-22/UKR_CBPF/SA1/E/INGO/23506,2022,Street Child,International NGO,For the Future of Ukraine,3,National NGO,228533.0
+UKR-22/UKR_CBPF/SA1/E/INGO/23506,2022,Street Child,International NGO,NGO Resource Center,3,National NGO,90940.0
+UKR-22/UKR_CBPF/SA1/E/INGO/23506,2022,Street Child,International NGO,Ridni,3,National NGO,246251.0
+UKR-22/UKR_CBPF/SA1/E/INGO/23506,2022,Street Child,International NGO,Womens Consortium of Ukraine,3,National NGO,243256.0
+UKR-22/UKR_CBPF/SA1/E/NGO/23518,2022,CHARITABLE ORGANIZATION “CHARITY FOUNDATION “EAST-SOS”,National NGO,MONDO MTU - NGO MONDO,2,International NGO,165140.0
+UKR-22/UKR_CBPF/SA1/E/NGO/23518,2022,CHARITABLE ORGANIZATION “CHARITY FOUNDATION “EAST-SOS”,National NGO,Charitable Foundation Real Ukrainians,3,National NGO,37640.0
+UKR-22/UKR_CBPF/SA1/E/NGO/23518,2022,CHARITABLE ORGANIZATION “CHARITY FOUNDATION “EAST-SOS”,National NGO,Sincere Heart Charity Foundation,3,National NGO,42680.0
+UKR-22/UKR_CBPF/SA1/FSL-H-P-S-NFI/UN/23511,2022,International Organization for Migration,UN Agency,Kharkiv Youth Council,3,National NGO,10000.0
+UKR-22/UKR_CBPF/SA1/FSL-H-P-S-NFI/UN/23511,2022,International Organization for Migration,UN Agency,Rotary Club Kyiv International,3,National NGO,10000.0
+UKR-22/UKR_CBPF/SA1/FSL-MPC/UN/23525,2022,Food and Agriculture Organization of the United Nations,UN Agency,IPs be identified at the inception of the project (Act 1.1.1),3,National NGO,185500.0
+UKR-22/UKR_CBPF/SA1/FSL-S-NFI-WASH/INGO/23516,2022,People in Need,International NGO,CO 'Charitable Fund 'Myrne Nebo Kharkova',3,National NGO,5618.0
+UKR-22/UKR_CBPF/SA1/FSL-S-NFI-WASH/INGO/23516,2022,People in Need,International NGO,Wings of hope,3,National NGO,144756.0
+UKR-22/UKR_CBPF/SA1/FSL/INGO/23551,2022,Estonian Refugee Council,International NGO,Unity for the Future / ??????????? ??????????? ???? ??????? ?? ????????,3,National NGO,0.0
+UKR-22/UKR_CBPF/SA1/MPC-S-NFI/INGO/23474,2022,Hungarian Interchurch Aid,International NGO,LIFE GOES ON,3,National NGO,78240.0
+UKR-22/UKR_CBPF/SA1/MPC/NGO/23491,2022,ICF Caritas Ukraine,National NGO,Caritas Khmelnytskiy,3,National NGO,58592.04
+UKR-22/UKR_CBPF/SA1/MPC/NGO/23491,2022,ICF Caritas Ukraine,National NGO,Caritas Odesa,3,National NGO,66172.04
+UKR-22/UKR_CBPF/SA1/P-E/NGO/23568,2022,Bureau of gender strategy and budgeting,National NGO,EdCamp Ukraine,3,National NGO,54750.0
+UKR-22/UKR_CBPF/SA1/P-H-S-NFI/INGO/23517,2022,ChildFund Deutschland e. V.,International NGO,NGO “Yellow-Blue Wings”,3,National NGO,304357.0
+UKR-22/UKR_CBPF/SA1/P-H-S-NFI/INGO/23517,2022,ChildFund Deutschland e. V.,International NGO,Podolian Agency of Regional Development,3,National NGO,240671.0
+UKR-22/UKR_CBPF/SA1/P-H-WASH/UN/23453,2022,United Nations Children's Fund,UN Agency,Partner 3 (Hopes &amp; Homes for Children TBC),2,International NGO,0.0
+UKR-22/UKR_CBPF/SA1/P-H-WASH/UN/23453,2022,United Nations Children's Fund,UN Agency,Partner 1 (Slavic Heart TBC),3,National NGO,0.0
+UKR-22/UKR_CBPF/SA1/P-H-WASH/UN/23453,2022,United Nations Children's Fund,UN Agency,Partner 2 (Volunteer Movement TBC),3,National NGO,0.0
+UKR-22/UKR_CBPF/SA1/P-H-WASH/UN/23453,2022,United Nations Children's Fund,UN Agency,Sub-implementing partner,3,National NGO,185360.0
+UKR-22/UKR_CBPF/SA1/P-H-WASH/UN/23453,2022,United Nations Children's Fund,UN Agency,Sub-implementing partner-2,3,National NGO,213249.6
+UKR-22/UKR_CBPF/SA1/P-H-WASH/UN/23453,2022,United Nations Children's Fund,UN Agency,Ukrainian Foundation of Public Health,3,National NGO,500438.4
+UKR-22/UKR_CBPF/SA1/P-H/INGO/23420,2022,INTERSOS,International NGO,LIGHT OF HOPE,3,National NGO,250000.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,Charity Fund Sloboda UA,3,National NGO,4764.94
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,DOF,3,National NGO,70000.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,Javeline,3,National NGO,50000.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,Myrne Nebo,3,National NGO,47083.33
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,REGIONAL ASSOCIATION OF TERRITORIAL COMMUNITIES,3,National NGO,4205.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,The Tenth of April,3,National NGO,20000.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,Volunteers UA,3,National NGO,2550.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,We are brothers we are Ukrainian,3,National NGO,4764.94
+UKR-22/UKR_CBPF/SA1/P/INGO/23545,2022,Nonviolent Peaceforce International,International NGO,WOMEN ASSOCIATION SPHERE,3,National NGO,4764.95
+UKR-22/UKR_CBPF/SA1/P/INGO/23565,2022,Street Child,International NGO,Bright Kids,3,National NGO,222675.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23565,2022,Street Child,International NGO,D.O.M.48.24,3,National NGO,272175.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23565,2022,Street Child,International NGO,Donetsk Youth Debate Centre,3,National NGO,228675.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23565,2022,Street Child,International NGO,For the Future of Ukraine,3,National NGO,37830.08
+UKR-22/UKR_CBPF/SA1/P/INGO/23565,2022,Street Child,International NGO,NGO Girls,3,National NGO,234675.0
+UKR-22/UKR_CBPF/SA1/P/INGO/23566,2022,Terre des hommes - Aide a l’enfance dans le monde - Fondation,International NGO,Charity Fund 'Posmishka UA',3,National NGO,451629.9
+UKR-22/UKR_CBPF/SA1/P/INGO/23566,2022,Terre des hommes - Aide a l’enfance dans le monde - Fondation,International NGO,Charity Fund 'Yellow-Blue Wings',3,National NGO,498049.9
+UKR-22/UKR_CBPF/SA1/P/NGO/23527,2022,Non-Governmental Organization Resource Center,National NGO,HEALTHY SOCIETY,3,National NGO,49910.0
+UKR-22/UKR_CBPF/SA1/P/NGO/23527,2022,Non-Governmental Organization Resource Center,National NGO,Non-Governmental Organization Resource Center,3,National NGO,34290.0
+UKR-22/UKR_CBPF/SA1/P/NGO/23570,2022,ICF Caritas Ukraine,National NGO,Caritas Kamianske,3,National NGO,47277.34
+UKR-22/UKR_CBPF/SA1/P/NGO/23570,2022,ICF Caritas Ukraine,National NGO,Caritas Khmelnytskiy,3,National NGO,47277.34
+UKR-22/UKR_CBPF/SA1/P/NGO/23570,2022,ICF Caritas Ukraine,National NGO,Caritas Kolomyia,3,National NGO,47277.34
+UKR-22/UKR_CBPF/SA1/P/NGO/23570,2022,ICF Caritas Ukraine,National NGO,Caritas Odesa,3,National NGO,47277.34
+UKR-22/UKR_CBPF/SA1/P/NGO/23570,2022,ICF Caritas Ukraine,National NGO,Caritas Volyn,3,National NGO,47277.34
+UKR-22/UKR_CBPF/SA1/P/NGO/23570,2022,ICF Caritas Ukraine,National NGO,Caritas Zhovkva,3,National NGO,47277.34
+UKR-22/UKR_CBPF/SA1/P/UN/23475,2022,United Nations High Commissioner for Refugees,UN Agency,Charity Rokada,3,National NGO,1218127.5
+UKR-22/UKR_CBPF/SA1/P/UN/23475,2022,United Nations High Commissioner for Refugees,UN Agency,CrimeaSOS,3,National NGO,453408.21
+UKR-22/UKR_CBPF/SA1/P/UN/23475,2022,United Nations High Commissioner for Refugees,UN Agency,Foundation for Health Protection (NEEKA),3,National NGO,277641.33
+UKR-22/UKR_CBPF/SA1/P/UN/23475,2022,United Nations High Commissioner for Refugees,UN Agency,NGO 'Proliska',3,National NGO,731916.0
+UKR-22/UKR_CBPF/SA1/P/UN/23475,2022,United Nations High Commissioner for Refugees,UN Agency,Right to Protection,3,National NGO,877171.97
+UKR-22/UKR_CBPF/SA1/P/UN/23475,2022,United Nations High Commissioner for Refugees,UN Agency,The Tenth of April,3,National NGO,739430.62
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-P/NGO/23504,2022,Podolian Agency for Regional Development,National NGO,Public Organization 'Eastern-Ukrainian Patriotic Association',3,National NGO,9055.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Alliance for Civil Rights,3,National NGO,65000.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Bilshe,3,National NGO,0.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Bukovyna Innovatsiina,3,National NGO,149280.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Charitable Foundation Myloserdia,3,National NGO,90000.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,DOBRODUD 2022,3,National NGO,200872.8
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,From Country to Ukraine,3,National NGO,36244.75
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Information Resource Center Legal Space,3,National NGO,110500.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Khortitsya,3,National NGO,302667.08
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,LIGHT OF HOPE,3,National NGO,279123.52
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Oleksandriia,3,National NGO,0.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Perspektiva,3,National NGO,346476.57
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,PORUCH,3,National NGO,131198.97
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Primorsk 24/7,3,National NGO,0.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Public organisation OBERIG,3,National NGO,0.0
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Relief Coordination Center,3,National NGO,29724.82
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Save Ukrainians,3,National NGO,104388.29
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Southern Development Strategy,3,National NGO,248089.13
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,TSE - NASHA SPRAVA!,3,National NGO,97218.61
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,Unikalna Kraina,3,National NGO,140641.69
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,We are brothers we are Ukrainian,3,National NGO,107642.94
+UKR-22/UKR_CBPF/SA1/S-NFI-FSL-WASH-P/INGO/23492,2022,Agency for Technical Cooperation and Development,International NGO,World Ukraine Polohy,3,National NGO,133821.24
+UKR-22/UKR_CBPF/SA1/S-NFI-MPC-P/INGO/23519,2022,Deutsche Welthungerhilfe e.V.,International NGO,LIGHT OF HOPE,3,National NGO,50000.0
+UKR-22/UKR_CBPF/SA1/S-NFI-MPC-P/INGO/23519,2022,Deutsche Welthungerhilfe e.V.,International NGO,Sumy Public Circle,3,National NGO,31904.19
+UKR-22/UKR_CBPF/SA1/S-NFI-P/NGO/23513,2022,CHARITABLE ORGANIZATION 'ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS',National NGO,CHARITABLE ORGANIZATION &quot;ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS&quot;,3,National NGO,196615.38
+UKR-22/UKR_CBPF/SA1/WASH-FSL-S-NFI-H/INGO/23486,2022,Internationale Gesellschaft für Menschenrechte,International NGO,Information and Analytical Center of the International Society for Human Rights,3,National NGO,543629.0
+CBPF-UKR-23-R-INGO-24498,2023,Hungarian Interchurch Aid,International NGO,NGO 'League of Socially Responsible Women',3,National NGO,203200.0
+CBPF-UKR-23-R-INGO-24499,2023,Save the Children Fund,International NGO,Donbass Development Centre,3,National NGO,753307.0
+CBPF-UKR-23-R-INGO-24508,2023,INTERSOS,International NGO,LIGHT OF HOPE,3,National NGO,250000.0
+CBPF-UKR-23-R-INGO-24508,2023,INTERSOS,International NGO,Myrne Nebo,3,National NGO,149455.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,'Rock of Salvation' Evangelical Christian Church,3,National NGO,9400.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,“House of Prayer” of Myrnohrad City,3,National NGO,8500.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,CHARITY ORGANIZATION BREATH OF HOPE,3,National NGO,57000.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,Church of Evangelical Christians of Druzhkivka,3,National NGO,8500.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,HELPING HANDS CHARITY FUND,3,National NGO,57500.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,Holy Trinity Church Kharkiv,3,National NGO,53600.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,LIGHT GOSPEL,3,National NGO,11000.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,NGO 'People who Care',3,National NGO,54000.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,PO Morning Star,3,National NGO,6000.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,The Full Gospel Christian Church 'Word of Life',3,National NGO,4250.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,VOLUNTEER ASSOCIATION 'I BELIEVE IN UKRAINE',3,National NGO,57500.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,Church of the Christ Savior in  Kurakhove,5,"Other (e.g. faith-based, institutions)",7700.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,Church of Victors Sloviansk,5,"Other (e.g. faith-based, institutions)",11000.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,Good News in Kramatorsk,5,"Other (e.g. faith-based, institutions)",9350.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,OOD NEWS CHRISTIAN CHURCH M. MARHANETS,5,"Other (e.g. faith-based, institutions)",11950.0
+CBPF-UKR-23-R-INGO-24510,2023,Samaritan’s Purse Ukraine,International NGO,RO 'NEW GENERATION' IN MARGANETS',5,"Other (e.g. faith-based, institutions)",7700.0
+CBPF-UKR-23-R-INGO-24512,2023,Foundazione di Religione “Opera San Francesco Saverio” - Collegio Universitario Aspiranti Medici Missionari - C.U.A.M.M.,International NGO,Separate unit Volontariato Internazionale per lo Sviluppo,2,International NGO,149107.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,300 Mykolaivtsiv,3,National NGO,17978.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,Dmytro Shpenov Charitable Foundation-Dobra Sprava,3,National NGO,71174.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,International Trust,3,National NGO,45318.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,Motion - OF MERCY,3,National NGO,29773.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,Odesa is Unbreakable,3,National NGO,10818.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,Social Assistance to the Poor,3,National NGO,10100.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,Stay Safe UA,3,National NGO,29237.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,Support Kherson,3,National NGO,18075.0
+CBPF-UKR-23-R-INGO-24513,2023,Agency for Technical Cooperation and Development,International NGO,World Ukraine Polohy,3,National NGO,17926.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Charitable Fundation 'New dawn',3,National NGO,20000.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Education Foundation Potential,3,National NGO,103120.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Intelligence of Sumy,3,National NGO,59868.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,League of Science Development,3,National NGO,55488.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Motion - OF MERCY,3,National NGO,20000.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Omriyana Kraina,3,National NGO,59950.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Perspektiva,3,National NGO,20000.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Save Ukrainians,3,National NGO,20000.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Stay Safe UA,3,National NGO,20000.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,Support Kherson,3,National NGO,59577.0
+CBPF-UKR-23-R-INGO-26169,2023,Agency for Technical Cooperation and Development,International NGO,We are brothers we are Ukrainian,3,National NGO,132953.0
+CBPF-UKR-23-R-INGO-26171,2023,"International Rescue Committee, Inc.",International NGO,Unity for the Future / ?? “???????' ?? ????????”,3,National NGO,560748.0
+CBPF-UKR-23-R-INGO-26172,2023,Help – Hilfe zur Selbsthilfe e.V.,International NGO,Avalist,3,National NGO,364831.0
+CBPF-UKR-23-R-INGO-26179,2023,Folkekirkens Nødhjælp,International NGO,Southern Development Strategy,3,National NGO,265944.0
+CBPF-UKR-23-R-INGO-26183,2023,Save the Children Fund,International NGO,Humanitarian Aid and Development Centre,3,National NGO,855754.0
+CBPF-UKR-23-R-INGO-26183,2023,Save the Children Fund,International NGO,UKRAINIAN ASSOCIATION OF BUSINESS SUPPORT CENTERS,3,National NGO,62777.0
+CBPF-UKR-23-R-INGO-26187,2023,CORE Community Organized Relief Effort,International NGO,100 percent Life Zaporizhzhia Network,3,National NGO,165805.0
+CBPF-UKR-23-R-INGO-26188,2023,Samaritan’s Purse Ukraine,International NGO,CO 'CHARITY FOUNDATION 'GARNET',3,National NGO,236574.0
+CBPF-UKR-23-R-INGO-26188,2023,Samaritan’s Purse Ukraine,International NGO,NGO PLATFORMA PLUS,3,National NGO,270781.0
+CBPF-UKR-23-R-INGO-26188,2023,Samaritan’s Purse Ukraine,International NGO,CC 'SOURCE OF LIFE',5,"Other (e.g. faith-based, institutions)",236574.0
+CBPF-UKR-23-R-INGO-26188,2023,Samaritan’s Purse Ukraine,International NGO,Church 'New Life' In Sloviansk,5,"Other (e.g. faith-based, institutions)",233888.0
+CBPF-UKR-23-R-INGO-26188,2023,Samaritan’s Purse Ukraine,International NGO,Church of the Christ Savior in  Kurakhove,5,"Other (e.g. faith-based, institutions)",233888.0
+CBPF-UKR-23-R-INGO-26188,2023,Samaritan’s Purse Ukraine,International NGO,RO RC Church of Christians of Evangelical Faith,5,"Other (e.g. faith-based, institutions)",270781.0
+CBPF-UKR-23-R-INGO-26190,2023,Deutsche Welthungerhilfe e.V.,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,300865.0
+CBPF-UKR-23-R-INGO-26190,2023,Deutsche Welthungerhilfe e.V.,International NGO,Sumy Public Circle,3,National NGO,88000.0
+CBPF-UKR-23-R-INGO-26190,2023,Deutsche Welthungerhilfe e.V.,International NGO,We are brothers we are Ukrainian,3,National NGO,193673.0
+CBPF-UKR-23-R-INGO-26195,2023,Stichting ZOA,International NGO,Charitable Foundation Shchedryk,3,National NGO,339112.0
+CBPF-UKR-23-R-INGO-26215,2023,Estonian Refugee Council,International NGO,NGO YES,3,National NGO,16950.0
+CBPF-UKR-23-R-INGO-26218,2023,INTERSOS,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,12986.0
+CBPF-UKR-23-R-INGO-26218,2023,INTERSOS,International NGO,Healthy Nation Future of Ukraine (PO),3,National NGO,17197.0
+CBPF-UKR-23-R-INGO-26218,2023,INTERSOS,International NGO,Relief Coordination Center,3,National NGO,18402.0
+CBPF-UKR-23-R-INGO-26218,2023,INTERSOS,International NGO,Rise of Ukraine,3,National NGO,5849.0
+CBPF-UKR-23-R-INGO-26219,2023,Hungarian Interchurch Aid,International NGO,NGO 'League of Socially Responsible Women',3,National NGO,486016.0
+CBPF-UKR-23-R-INGO-26228,2023,Terre des hommes - Aide a l’enfance dans le monde - Fondation,International NGO,CO Charitable Foundation 'Dobrobut Ukrainy',3,National NGO,69320.0
+CBPF-UKR-23-R-INGO-26244,2023,Caritas Czech Republic,International NGO,Charitable Fundation 'New dawn',3,National NGO,1334998.0
+CBPF-UKR-23-R-INGO-26249,2023,"Global Emergency Relief, Recovery & Reconstruction",International NGO,DISTRICT 1,3,National NGO,385016.0
+CBPF-UKR-23-R-NGO-24507,2023,ICF Caritas Ukraine,National NGO,Caritas Kharkiv,3,National NGO,349293.0
+CBPF-UKR-23-R-NGO-24507,2023,ICF Caritas Ukraine,National NGO,Caritas Kryvyi Rih,3,National NGO,219816.0
+CBPF-UKR-23-R-NGO-24507,2023,ICF Caritas Ukraine,National NGO,Caritas Mykolaiv,3,National NGO,645037.0
+CBPF-UKR-23-R-NGO-24507,2023,ICF Caritas Ukraine,National NGO,Caritas Odesa,3,National NGO,344239.0
+CBPF-UKR-23-R-NGO-24507,2023,ICF Caritas Ukraine,National NGO,CF Caritas Zaporizhya,3,National NGO,403503.0
+CBPF-UKR-23-R-NGO-26192,2023,Dorcas Aid International Transcarpathia,National NGO,CITY AID CENTER,3,National NGO,1394262.0
+CBPF-UKR-23-R-NGO-26203,2023,Charity Foundation “NEW WAY”,National NGO,Charity Fund 'East Ukrainian Diaspora',3,National NGO,74577.0
+CBPF-UKR-23-R-NGO-26224,2023,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,Fishing Club of Ukraine - Uafishing club,3,National NGO,383033.0
+CBPF-UKR-23-R-UN-24501,2023,United Nations Population Fund,UN Agency,Faith.Hope.Love,3,National NGO,165802.0
+CBPF-UKR-23-R-UN-24501,2023,United Nations Population Fund,UN Agency,Initiative,3,National NGO,273117.0
+CBPF-UKR-23-R-UN-24501,2023,United Nations Population Fund,UN Agency,Innovative Social Solutions NGO,3,National NGO,75330.0
+CBPF-UKR-23-R-UN-24501,2023,United Nations Population Fund,UN Agency,Martin Club,3,National NGO,58603.0
+CBPF-UKR-23-R-UN-24501,2023,United Nations Population Fund,UN Agency,Posmishka UA,3,National NGO,433352.0
+CBPF-UKR-23-R-UN-24503,2023,United Nations High Commissioner for Refugees,UN Agency,NGO 'Proliska',3,National NGO,657388.0
+CBPF-UKR-23-R-UN-24503,2023,United Nations High Commissioner for Refugees,UN Agency,Right to Protection,3,National NGO,657431.0
+CBPF-UKR-23-R-UN-24503,2023,United Nations High Commissioner for Refugees,UN Agency,The Tenth of April,3,National NGO,467922.0
+CBPF-UKR-23-R-UN-24511,2023,Food and Agriculture Organization of the United Nations,UN Agency,Public Association “Kharkiv Regional Center of Advice” (KRCA),3,National NGO,61702.0
+CBPF-UKR-23-R-UN-24511,2023,Food and Agriculture Organization of the United Nations,UN Agency,Public Organization 'Society of Ukrainian Research,3,National NGO,367858.0
+CBPF-UKR-23-R-UN-24511,2023,Food and Agriculture Organization of the United Nations,UN Agency,Sokolovsky Institute of Soil Science,3,National NGO,250000.0
+CBPF-UKR-23-R-UN-24514,2023,World Food Programme,UN Agency,Fondation Suisse de Deminage,2,International NGO,5232407.0
+CBPF-UKR-23-R-UN-26170,2023,International Organization for Migration,UN Agency,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,52610.0
+CBPF-UKR-23-R-UN-26170,2023,International Organization for Migration,UN Agency,Implementation of Ideas,3,National NGO,41720.0
+CBPF-UKR-23-R-UN-26174,2023,Food and Agriculture Organization of the United Nations,UN Agency,100 percent Life Zaporizhzhia Network,3,National NGO,26800.0
+CBPF-UKR-23-R-UN-26174,2023,Food and Agriculture Organization of the United Nations,UN Agency,NGO Eastern Ukrainian Agricultural Department of the Service (“EUADS”),3,National NGO,26800.0
+CBPF-UKR-23-R-UN-26174,2023,Food and Agriculture Organization of the United Nations,UN Agency,Non-Governmental Organization 'Zemlya Tavriyi',3,National NGO,26800.0
+CBPF-UKR-23-R-UN-26174,2023,Food and Agriculture Organization of the United Nations,UN Agency,Public Association “Kharkiv Regional Center of Advice” (KRCA),3,National NGO,26800.0
+CBPF-UKR-23-S-INGO-24763,2023,Folkekirkens Nødhjælp,International NGO,Southern Development Strategy,3,National NGO,711263.0
+CBPF-UKR-23-S-INGO-24766,2023,Stichting ZOA,International NGO,NGO Association of Democratic Development,3,National NGO,44125.0
+CBPF-UKR-23-S-INGO-24770,2023,AVSI Foundation,International NGO,Charitable Foundation A-HELP UA,3,National NGO,102300.0
+CBPF-UKR-23-S-INGO-24770,2023,AVSI Foundation,International NGO,Charity Fund HelpGroup,3,National NGO,191500.0
+CBPF-UKR-23-S-INGO-24770,2023,AVSI Foundation,International NGO,Rescue Now NGO,3,National NGO,101900.0
+CBPF-UKR-23-S-INGO-24770,2023,AVSI Foundation,International NGO,Wanted Here NGO,3,National NGO,308500.0
+CBPF-UKR-23-S-INGO-24774,2023,Estonian Refugee Council,International NGO,NGO Goodwill,3,National NGO,250000.0
+CBPF-UKR-23-S-INGO-24774,2023,Estonian Refugee Council,International NGO,NGO YES,3,National NGO,250000.0
+CBPF-UKR-23-S-INGO-24774,2023,Estonian Refugee Council,International NGO,Rescue Now NGO,3,National NGO,250000.0
+CBPF-UKR-23-S-INGO-24813,2023,Agency for Technical Cooperation and Development,International NGO,Data Friendly Space,2,International NGO,99980.0
+CBPF-UKR-23-S-INGO-24813,2023,Agency for Technical Cooperation and Development,International NGO,IMPACT Initiatives,2,International NGO,86085.0
+CBPF-UKR-23-S-INGO-24860,2023,Première Urgence Internationale,International NGO,Charitable Organization “Development Center',3,National NGO,97441.0
+CBPF-UKR-23-S-INGO-24872,2023,Danish Refugee Council,International NGO,Caritas Kharkiv,3,National NGO,30000.0
+CBPF-UKR-23-S-INGO-24872,2023,Danish Refugee Council,International NGO,MART,3,National NGO,40000.0
+CBPF-UKR-23-S-INGO-24872,2023,Danish Refugee Council,International NGO,STRATEGIES AND TECHNOLOGIES FOR  EFFECTIVE PARTNER,3,National NGO,25000.0
+CBPF-UKR-23-S-INGO-24889,2023,"International Rescue Committee, Inc.",International NGO,UKRAINIAN DEMINERS ASSOCIATION,3,National NGO,467290.0
+CBPF-UKR-23-S-INGO-24915,2023,ChildFund Deutschland e. V.,International NGO,"Charitable Fund 'Voices of children', NGO",3,National NGO,228832.0
+CBPF-UKR-23-S-INGO-24927,2023,Corus International,International NGO,Infection Control in Ukraine,3,National NGO,787020.0
+CBPF-UKR-23-S-INGO-24954,2023,MEDICAL TEAMS INTERNATIONAL,International NGO,100% Life Kryvyi Rih,3,National NGO,420042.0
+CBPF-UKR-23-S-INGO-24955,2023,People in Need,International NGO,ActionAid Ukraine,2,International NGO,80370.0
+CBPF-UKR-23-S-INGO-24955,2023,People in Need,International NGO,NGO Girls,3,National NGO,194080.0
+CBPF-UKR-23-S-INGO-24955,2023,People in Need,International NGO,Right to Protection,3,National NGO,950959.0
+CBPF-UKR-23-S-INGO-24955,2023,People in Need,International NGO,WOMEN ASSOCIATION SPHERE,3,National NGO,123036.0
+CBPF-UKR-23-S-INGO-24969,2023,Lumos Foundation,International NGO,Ukraine Without Orphans,3,National NGO,165094.0
+CBPF-UKR-23-S-INGO-24974,2023,Hungarian Interchurch Aid,International NGO,NGO 'League of Socially Responsible Women',3,National NGO,490800.0
+CBPF-UKR-23-S-INGO-24985,2023,CARE Deutschland e. V.,International NGO,Faith.Hope.Love,3,National NGO,217443.0
+CBPF-UKR-23-S-INGO-24985,2023,CARE Deutschland e. V.,International NGO,NGO Girls,3,National NGO,283870.0
+CBPF-UKR-23-S-INGO-24985,2023,CARE Deutschland e. V.,International NGO,Non-Governmental Organization 'Successful Woman',3,National NGO,166444.0
+CBPF-UKR-23-S-INGO-24985,2023,CARE Deutschland e. V.,International NGO,?haritable Organisation “Charity Foundation “Stabilization Support Services”,3,National NGO,539944.0
+CBPF-UKR-23-S-INGO-24989,2023,Cesvi Fondazione - ETS,International NGO,Fondazione We World - GVC Onlus,2,International NGO,792612.0
+CBPF-UKR-23-S-INGO-24989,2023,Cesvi Fondazione - ETS,International NGO,I am Buchanets,3,National NGO,148525.0
+CBPF-UKR-23-S-INGO-24989,2023,Cesvi Fondazione - ETS,International NGO,Rescue Now NGO,3,National NGO,195009.0
+CBPF-UKR-23-S-INGO-24989,2023,Cesvi Fondazione - ETS,International NGO,The Tenth of April,3,National NGO,661228.0
+CBPF-UKR-23-S-INGO-25009,2023,CORE Community Organized Relief Effort,International NGO,NUKRAINE,3,National NGO,424801.0
+CBPF-UKR-23-S-INGO-25009,2023,CORE Community Organized Relief Effort,International NGO,Southern Development Strategy,3,National NGO,231626.0
+CBPF-UKR-23-S-INGO-25042,2023,CHARITY ORGANISATION “CHARITY FUND “ALPS RESILIENCE UKRAINE”,International NGO,National Organization of the Scouts of Ukraine,3,National NGO,124595.0
+CBPF-UKR-23-S-INGO-25042,2023,CHARITY ORGANISATION “CHARITY FUND “ALPS RESILIENCE UKRAINE”,International NGO,UKRAINIAN DEMINERS ASSOCIATION,3,National NGO,448947.0
+CBPF-UKR-23-S-NGO-24793,2023,Dorcas Aid International Transcarpathia,National NGO,Charitable Fund Nevo,3,National NGO,227100.0
+CBPF-UKR-23-S-NGO-24888,2023,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,Civic initiative - Who but we!,3,National NGO,81473.0
+CBPF-UKR-23-S-NGO-24888,2023,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,Fishing Club of Ukraine - Uafishing club,3,National NGO,321373.0
+CBPF-UKR-23-S-NGO-24888,2023,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,FOR DEVELOPMENT,3,National NGO,110791.0
+CBPF-UKR-23-S-NGO-24888,2023,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,NGO YES,3,National NGO,126272.0
+CBPF-UKR-23-S-NGO-24888,2023,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,UNITY PLATFORM,3,National NGO,200075.0
+CBPF-UKR-23-S-NGO-24903,2023,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,CF «Development and social justice of Ukraine»,3,National NGO,56912.0
+CBPF-UKR-23-S-NGO-24903,2023,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,Intelligence of Sumy,3,National NGO,56912.0
+CBPF-UKR-23-S-NGO-24903,2023,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,NGO 'Center for Social Welfare 'Dobrochyn',3,National NGO,56912.0
+CBPF-UKR-23-S-NGO-24977,2023,CHARITABLE ORGANIZATION 'ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS',National NGO,NGO Ukrainian Smile,3,National NGO,640320.0
+CBPF-UKR-23-S-NGO-24998,2023,Kharkiv Regional Youth Non-Governmental Organisation 'Enlightening  Initiative',National NGO,Charitable Foundation 'Lighthouse of revival',3,National NGO,18811.0
+CBPF-UKR-23-S-NGO-24998,2023,Kharkiv Regional Youth Non-Governmental Organisation 'Enlightening  Initiative',National NGO,Charity Fund Sloboda UA,3,National NGO,20059.0
+CBPF-UKR-23-S-NGO-24998,2023,Kharkiv Regional Youth Non-Governmental Organisation 'Enlightening  Initiative',National NGO,FASTIV TEAM,3,National NGO,20840.0
+CBPF-UKR-23-S-NGO-25054,2023,Spring of Hope. Ukraine,National NGO,AGENCY FOR SUSTAINABLE DEVELOPMENT OF THE CITY,3,National NGO,127132.0
+CBPF-UKR-23-S-NGO-25054,2023,Spring of Hope. Ukraine,National NGO,CHARITABLE FOUNDATION «HITEX»,3,National NGO,184977.0
+CBPF-UKR-23-S-NGO-25054,2023,Spring of Hope. Ukraine,National NGO,NGO 'Center for Public Initiatives 'MRIYA',3,National NGO,33685.0
+CBPF-UKR-23-S-NGO-25054,2023,Spring of Hope. Ukraine,National NGO,Non-governmental organization  NEXT GENERATION 21,3,National NGO,35395.0
+CBPF-UKR-23-S-NGO-25054,2023,Spring of Hope. Ukraine,National NGO,Non-governmental organization 'Your city ROMEN',3,National NGO,34962.0
+CBPF-UKR-24-R-INGO-32939,2024,Medair,International NGO,Unity and Strength,3,National NGO,45480.0
+CBPF-UKR-24-R-INGO-32951,2024,Agency for Technical Cooperation and Development,International NGO,Bilozerka Center for Regional Development,3,National NGO,52770.0
+CBPF-UKR-24-R-INGO-32951,2024,Agency for Technical Cooperation and Development,International NGO,Education Foundation Potential,3,National NGO,49829.0
+CBPF-UKR-24-R-INGO-32951,2024,Agency for Technical Cooperation and Development,International NGO,League of Science Development,3,National NGO,46153.0
+CBPF-UKR-24-R-INGO-32951,2024,Agency for Technical Cooperation and Development,International NGO,NEW DAWN,3,National NGO,44570.0
+CBPF-UKR-24-R-INGO-32951,2024,Agency for Technical Cooperation and Development,International NGO,Save Ukrainians,3,National NGO,44437.0
+CBPF-UKR-24-R-INGO-32952,2024,Polish Humanitarian Action,International NGO,Fund of Kindness and Love,3,National NGO,347445.0
+CBPF-UKR-24-R-INGO-32958,2024,MTU Mondo,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,223928.0
+CBPF-UKR-24-R-INGO-32958,2024,MTU Mondo,International NGO,MTU Mondo,3,National NGO,203976.0
+CBPF-UKR-24-R-INGO-32961,2024,"International Rescue Committee, Inc.",International NGO,Charitable Fund “Pomogaem”,3,National NGO,466903.0
+CBPF-UKR-24-R-INGO-32961,2024,"International Rescue Committee, Inc.",International NGO,Peaceful Heaven of Kharkiv,3,National NGO,373464.0
+CBPF-UKR-24-R-INGO-32962,2024,Samaritan’s Purse Ukraine,International NGO,Christ - The Only Hope,3,National NGO,182112.0
+CBPF-UKR-24-R-INGO-32962,2024,Samaritan’s Purse Ukraine,International NGO,Kherson Help Center,3,National NGO,165381.0
+CBPF-UKR-24-R-INGO-32962,2024,Samaritan’s Purse Ukraine,International NGO,Sky of Ukraine,3,National NGO,182112.0
+CBPF-UKR-24-R-INGO-32962,2024,Samaritan’s Purse Ukraine,International NGO,"Religious ?ommunity, ?hurch of God's Ark",5,"Other (e.g. faith-based, institutions)",197640.0
+CBPF-UKR-24-R-INGO-32962,2024,Samaritan’s Purse Ukraine,International NGO,Restoration of the Tabernacle,5,"Other (e.g. faith-based, institutions)",165381.0
+CBPF-UKR-24-R-INGO-32962,2024,Samaritan’s Purse Ukraine,International NGO,RO RC Church of Christians of Evangelical Faith,5,"Other (e.g. faith-based, institutions)",147504.0
+CBPF-UKR-24-R-INGO-32964,2024,Norwegian Refugee Council,International NGO,Peaceful Heaven of Kharkiv,3,National NGO,85154.0
+CBPF-UKR-24-R-INGO-32969,2024,Stichting ZOA,International NGO,Charitable Foundation Shchedryk,3,National NGO,349129.0
+CBPF-UKR-24-R-INGO-32969,2024,Stichting ZOA,International NGO,NGO Association of Democratic Development,3,National NGO,47923.0
+CBPF-UKR-24-R-INGO-32988,2024,Triangle Generation Humanitaire,International NGO,Charity Foundation Kharkiv City Boxing Club,3,National NGO,182381.0
+CBPF-UKR-24-R-INGO-32988,2024,Triangle Generation Humanitaire,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,271280.0
+CBPF-UKR-24-R-INGO-33030,2024,Help – Hilfe zur Selbsthilfe e.V.,International NGO,Avalist,3,National NGO,1042087.0
+CBPF-UKR-24-R-INGO-33089,2024,Save the Children Fund,International NGO,Avalyst,3,National NGO,49054.0
+CBPF-UKR-24-R-INGO-33089,2024,Save the Children Fund,International NGO,Donbass Development Centre,3,National NGO,363297.0
+CBPF-UKR-24-R-INGO-33089,2024,Save the Children Fund,International NGO,UKRAINIAN ASSOCIATION OF BUSINESS SUPPORT CENTERS,3,National NGO,494957.0
+CBPF-UKR-24-R-INGO-33093,2024,Estonian Refugee Council,International NGO,NGO YES,3,National NGO,285390.0
+CBPF-UKR-24-R-INGO-33097,2024,Project Hope 'The people to people health foundation' Inc.,International NGO,CHARITABLE ORGANIZATION “CHARITY FUND “WORLD. UKRAINE. POLOHY”,3,National NGO,65376.0
+CBPF-UKR-24-R-INGO-33097,2024,Project Hope 'The people to people health foundation' Inc.,International NGO,Peaceful Heaven of Kharkiv,3,National NGO,127943.0
+CBPF-UKR-24-R-INGO-33102,2024,CORE Community Organized Relief Effort,International NGO,100 percent Life Zaporizhzhia Network,3,National NGO,186066.0
+CBPF-UKR-24-R-INGO-33102,2024,CORE Community Organized Relief Effort,International NGO,Southern Development Strategy,3,National NGO,382052.0
+CBPF-UKR-24-R-INGO-33140,2024,"Global Emergency Relief, Recovery & Reconstruction",International NGO,DISTRICT 1,3,National NGO,284043.0
+CBPF-UKR-24-R-INGO-33142,2024,Danish Refugee Council,International NGO,Charitable Fund “Pomogaem”,3,National NGO,278000.0
+CBPF-UKR-24-R-INGO-33142,2024,Danish Refugee Council,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,414864.0
+CBPF-UKR-24-R-INGO-33142,2024,Danish Refugee Council,International NGO,City of Power,3,National NGO,290592.0
+CBPF-UKR-24-R-INGO-33142,2024,Danish Refugee Council,International NGO,LAMPA,3,National NGO,37145.0
+CBPF-UKR-24-R-INGO-33153,2024,Caritas Czech Republic,International NGO,Charitable Fundation 'New dawn',3,National NGO,827520.0
+CBPF-UKR-24-R-NGO-32955,2024,Charity Foundation “NEW WAY”,National NGO,Charity Fund 'East Ukrainian Diaspora',3,National NGO,287502.0
+CBPF-UKR-24-R-NGO-33021,2024,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,NGO 'Center for Social Welfare 'Dobrochyn',3,National NGO,27653.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Caritas Chernihiv,3,National NGO,476279.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Caritas Donetsk,3,National NGO,1017354.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Caritas Kolomyia,3,National NGO,12582.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Caritas Nadvirna,3,National NGO,24205.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Caritas Odesa,3,National NGO,640498.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Caritas Sambir-Drohobych Diocese UGCC,3,National NGO,25165.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Caritas Sokal,3,National NGO,2300.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Caritas Stryi,3,National NGO,16378.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,CF Caritas Kramatorsk,3,National NGO,1043294.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,CF Caritas Zaporizhya,3,National NGO,665526.0
+CBPF-UKR-24-R-NGO-33117,2024,ICF Caritas Ukraine,National NGO,Charity Foundation “Caritas Ivano-Frankivsk UGCC”,3,National NGO,53605.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Charitable Organization 'ARTAK TOGETHER TO THE DREAM' Charitable Foundation,3,National NGO,74732.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Charitable Organization 'Charitable Fund 'Haustov',3,National NGO,33267.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Charitable Organization 'Charity Foundation CHILDREN OF THE NEW GENERATION',3,National NGO,30175.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Charitable Organization 'Charity Fund BARRIER FREE FOUNDATION',3,National NGO,30204.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Charitable Organization &quot;Charitable Foundation &quot;The Way of Ukraine&quot;,3,National NGO,14347.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,406906.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Charity Organization 'Charity Foundation 'UNIVERSAL AID to UKRAINE',3,National NGO,81602.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Charity organization 'Charity Foundation 'Vostok SOS',3,National NGO,1140738.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,CHARITY ORGANIZATION BREATH OF HOPE,3,National NGO,9953.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,I Am Saved,3,National NGO,74653.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Posmishka UA,3,National NGO,161167.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,PTAHA UKRAINE,3,National NGO,82070.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Public Organization 'BASE UA',3,National NGO,143603.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Public Organization 'Crisis Insight',3,National NGO,7734.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Public Organization 'LIGHT OF CULTURE',3,National NGO,73231.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Public Organization 'PLURITON'.,3,National NGO,74927.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Public Organization 'STRONG BECAUSE FREE',3,National NGO,90769.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Relief Coordination Center,3,National NGO,599575.0
+CBPF-UKR-24-R-NGO-34151,2024,Charitable Organization 'Charity Fund Team4UA',National NGO,Unity and Strength,3,National NGO,18966.0
+CBPF-UKR-24-S-INGO-27243,2024,"International Rescue Committee, Inc.",International NGO,'Charitable Foundation “I AM KHERSON',3,National NGO,130841.0
+CBPF-UKR-24-S-INGO-27243,2024,"International Rescue Committee, Inc.",International NGO,Charitable Fund 'FORTITUDE UA',3,National NGO,747664.0
+CBPF-UKR-24-S-INGO-27243,2024,"International Rescue Committee, Inc.",International NGO,"Public Movement: Faith, Hope, Love",3,National NGO,130841.0
+CBPF-UKR-24-S-INGO-27243,2024,"International Rescue Committee, Inc.",International NGO,SHCHEDRYK CHARITABLE FOUNDATION,3,National NGO,93458.0
+CBPF-UKR-24-S-INGO-27250,2024,Nonviolent Peaceforce International,International NGO,Charity Fund Vsi Poruch,3,National NGO,42525.0
+CBPF-UKR-24-S-INGO-27250,2024,Nonviolent Peaceforce International,International NGO,Relief Coordination Center,3,National NGO,1109685.0
+CBPF-UKR-24-S-INGO-27250,2024,Nonviolent Peaceforce International,International NGO,Kharkiv Regional Organization of Ukraine Red Cross Society,4,Unknown,92690.0
+CBPF-UKR-24-S-INGO-27251,2024,arche noVa (Representative office of arche noVa in Ukraine),International NGO,Peaceful Heaven of Kharkiv,3,National NGO,149500.0
+CBPF-UKR-24-S-INGO-27251,2024,arche noVa (Representative office of arche noVa in Ukraine),International NGO,Public Organization Dobri Dii,3,National NGO,82890.0
+CBPF-UKR-24-S-INGO-27251,2024,arche noVa (Representative office of arche noVa in Ukraine),International NGO,Strong Communities,3,National NGO,448905.0
+CBPF-UKR-24-S-INGO-27265,2024,AVSI Foundation,International NGO,Public Organization Country of Development,3,National NGO,187150.0
+CBPF-UKR-24-S-INGO-27265,2024,AVSI Foundation,International NGO,Rescue Now NGO,3,National NGO,87700.0
+CBPF-UKR-24-S-INGO-27265,2024,AVSI Foundation,International NGO,Wanted Here NGO,3,National NGO,236750.0
+CBPF-UKR-24-S-INGO-27270,2024,HIAS Inc.,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,465337.0
+CBPF-UKR-24-S-INGO-27270,2024,HIAS Inc.,International NGO,Non-Governmental Organization 'Successful Woman',3,National NGO,516097.0
+CBPF-UKR-24-S-INGO-27270,2024,HIAS Inc.,International NGO,PO Zviazok,3,National NGO,167508.0
+CBPF-UKR-24-S-INGO-27270,2024,HIAS Inc.,International NGO,Right to Protection,3,National NGO,262595.0
+CBPF-UKR-24-S-INGO-27283,2024,Stichting War Child Alliance,International NGO,NON-GOVERNMENTAL ORGANIZATION 'MONTESSORI UA',3,National NGO,253868.0
+CBPF-UKR-24-S-INGO-27283,2024,Stichting War Child Alliance,International NGO,The All-Ukrainian Foundation for Children's Rights,3,National NGO,602273.0
+CBPF-UKR-24-S-INGO-27286,2024,Corus International,International NGO,League of Modern Women,3,National NGO,214084.0
+CBPF-UKR-24-S-INGO-27286,2024,Corus International,International NGO,Ukrainian Foundation of Public Health,3,National NGO,432399.0
+CBPF-UKR-24-S-INGO-27292,2024,UK-Med,International NGO,All-Ukrainian Resuscitation Council,3,National NGO,240240.0
+CBPF-UKR-24-S-INGO-27292,2024,UK-Med,International NGO,CO «100 PERCENT OF LIFE» DNIPROV  REGION',3,National NGO,261949.0
+CBPF-UKR-24-S-INGO-27292,2024,UK-Med,International NGO,Infection Control in Ukraine,3,National NGO,342813.0
+CBPF-UKR-24-S-INGO-27309,2024,Fondazione We World - GVC Onlus,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,200000.0
+CBPF-UKR-24-S-INGO-27309,2024,Fondazione We World - GVC Onlus,International NGO,Rescue Now NGO,3,National NGO,100000.0
+CBPF-UKR-24-S-INGO-27312,2024,humedica e.V.,International NGO,Charity Fund Angelia,3,National NGO,90702.0
+CBPF-UKR-24-S-INGO-27328,2024,Fondazione Volontariato Internazionale Per Lo Sviluppo - ETS,International NGO,‘Charitable Foundation ‘Genofund Of The Future’,3,National NGO,174274.0
+CBPF-UKR-24-S-INGO-27328,2024,Fondazione Volontariato Internazionale Per Lo Sviluppo - ETS,International NGO,SALESIAN CONGREGATION OF EASTERN RITE IN UKRAINE,3,National NGO,28450.0
+CBPF-UKR-24-S-INGO-27335,2024,Stichting ZOA,International NGO,Charitable Foundation Shchedryk,3,National NGO,138225.0
+CBPF-UKR-24-S-INGO-27335,2024,Stichting ZOA,International NGO,NGO Association of Democratic Development,3,National NGO,51640.0
+CBPF-UKR-24-S-INGO-27371,2024,Agency for Technical Cooperation and Development,International NGO,IMPACT Initiatives,2,International NGO,50791.0
+CBPF-UKR-24-S-INGO-27371,2024,Agency for Technical Cooperation and Development,International NGO,From Country to Ukraine,3,National NGO,58872.0
+CBPF-UKR-24-S-INGO-27371,2024,Agency for Technical Cooperation and Development,International NGO,Peaceful Heaven of Kharkiv,3,National NGO,89635.0
+CBPF-UKR-24-S-INGO-27371,2024,Agency for Technical Cooperation and Development,International NGO,Perspektiva,3,National NGO,81217.0
+CBPF-UKR-24-S-INGO-27371,2024,Agency for Technical Cooperation and Development,International NGO,Southern Development Strategy,3,National NGO,298581.0
+CBPF-UKR-24-S-INGO-27371,2024,Agency for Technical Cooperation and Development,International NGO,UNITY AND STRENGHT,3,National NGO,78030.0
+CBPF-UKR-24-S-INGO-27458,2024,MEDICAL TEAMS INTERNATIONAL,International NGO,100% Life Kryvyi Rih,3,National NGO,282845.0
+CBPF-UKR-24-S-INGO-27464,2024,Street Child,International NGO,Chernivechke Association Protection,3,National NGO,10000.0
+CBPF-UKR-24-S-INGO-27464,2024,Street Child,International NGO,Everything Will Be Fine - Ukraine,3,National NGO,693290.0
+CBPF-UKR-24-S-INGO-27464,2024,Street Child,International NGO,For the Future of Ukraine,3,National NGO,349658.0
+CBPF-UKR-24-S-INGO-27464,2024,Street Child,International NGO,Okhtyrka Youth Center,3,National NGO,346399.0
+CBPF-UKR-24-S-INGO-27464,2024,Street Child,International NGO,Womens Consortium of Ukraine,3,National NGO,347684.0
+CBPF-UKR-24-S-INGO-27522,2024,INTERSOS,International NGO,LIGHT OF HOPE,3,National NGO,487836.0
+CBPF-UKR-24-S-INGO-27527,2024,Danish Refugee Council,International NGO,Alliance Global,3,National NGO,48077.0
+CBPF-UKR-24-S-INGO-27527,2024,Danish Refugee Council,International NGO,Caritas Kharkiv,3,National NGO,54252.0
+CBPF-UKR-24-S-INGO-27527,2024,Danish Refugee Council,International NGO,Dialogue of Communities,3,National NGO,57971.0
+CBPF-UKR-24-S-INGO-27527,2024,Danish Refugee Council,International NGO,League of Modern Women,3,National NGO,81919.0
+CBPF-UKR-24-S-INGO-27527,2024,Danish Refugee Council,International NGO,STRATEGIES AND TECHNOLOGIES FOR  EFFECTIVE PARTNER,3,National NGO,57692.0
+CBPF-UKR-24-S-INGO-27529,2024,Fondazione Terre des Hommes Italia ETS,International NGO,Pro Women Association...,3,National NGO,150500.0
+CBPF-UKR-24-S-INGO-27529,2024,Fondazione Terre des Hommes Italia ETS,International NGO,SOS Children’s Villages’ Ukraine,3,National NGO,458198.0
+CBPF-UKR-24-S-INGO-27529,2024,Fondazione Terre des Hommes Italia ETS,International NGO,Women for Development,3,National NGO,150500.0
+CBPF-UKR-24-S-INGO-27532,2024,"Global Emergency Relief, Recovery & Reconstruction",International NGO,DISTRICT 1,3,National NGO,758633.0
+CBPF-UKR-24-S-NGO-27278,2024,Charity Foundation “NEW WAY”,National NGO,Charity Fund 'East Ukrainian Diaspora',3,National NGO,151434.0
+CBPF-UKR-24-S-NGO-27281,2024,Non-Governmental Organization Resource Center,National NGO,CHARITY FUND 'WINDS OF CHANGE,3,National NGO,49990.0
+CBPF-UKR-24-S-NGO-27281,2024,Non-Governmental Organization Resource Center,National NGO,HEALTHY SOCIETY,3,National NGO,45298.0
+CBPF-UKR-24-S-NGO-27281,2024,Non-Governmental Organization Resource Center,National NGO,HUMAN RIGHTS ORGANIZATION EHIDA-ZAPORIZHIA,3,National NGO,20649.0
+CBPF-UKR-24-S-NGO-27281,2024,Non-Governmental Organization Resource Center,National NGO,Kharkiv charitable fund 'Blago',3,National NGO,24056.0
+CBPF-UKR-24-S-NGO-27281,2024,Non-Governmental Organization Resource Center,National NGO,NGO 'UKRAINIAN WOMANITY',3,National NGO,40778.0
+CBPF-UKR-24-S-NGO-27281,2024,Non-Governmental Organization Resource Center,National NGO,NGO «Green-Landiya»,3,National NGO,25796.0
+CBPF-UKR-24-S-NGO-27281,2024,Non-Governmental Organization Resource Center,National NGO,Public organization ”UkrProstir”,3,National NGO,22260.0
+CBPF-UKR-24-S-NGO-27281,2024,Non-Governmental Organization Resource Center,National NGO,PUBLIC ORGANIZATION CENTER 'VOTUM',3,National NGO,40704.0
+CBPF-UKR-24-S-NGO-27420,2024,International Charitable Organization “East Europe Foundation”,National NGO,Building the Future Together,3,National NGO,300104.0
+CBPF-UKR-24-S-NGO-27420,2024,International Charitable Organization “East Europe Foundation”,National NGO,Charity Foundation Source of Revival,3,National NGO,413365.0
+CBPF-UKR-24-S-NGO-27420,2024,International Charitable Organization “East Europe Foundation”,National NGO,LAMPA,3,National NGO,307728.0
+CBPF-UKR-24-S-NGO-27420,2024,International Charitable Organization “East Europe Foundation”,National NGO,NGO 'The Journalists Union 'ALTERNATIVE',3,National NGO,420000.0
+CBPF-UKR-24-S-NGO-27446,2024,CHARITABLE ORGANIZATION “UKRAINIAN EDUCATION  PLATFORM”,National NGO,CF Caritas Zaporizhya,3,National NGO,160668.0
+CBPF-UKR-24-S-NGO-27446,2024,CHARITABLE ORGANIZATION “UKRAINIAN EDUCATION  PLATFORM”,National NGO,CHARITABLE ORGANIZATION 'CHARITABLE FUND 'GLOBA22',3,National NGO,164637.0
+CBPF-UKR-24-S-NGO-27446,2024,CHARITABLE ORGANIZATION “UKRAINIAN EDUCATION  PLATFORM”,National NGO,CO 'Charitable Fund 'Myrne Nebo Kharkova',3,National NGO,208108.0
+CBPF-UKR-24-S-NGO-27463,2024,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,CF «Development and social justice of Ukraine»,3,National NGO,85496.0
+CBPF-UKR-24-S-NGO-27463,2024,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,CO 'Charitable foundation 'POWER OF WOMAN',3,National NGO,85496.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,Caritas Donetsk,3,National NGO,247632.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,Caritas Kamianske,3,National NGO,251042.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,Caritas Kolomyia,3,National NGO,226454.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,Caritas Kryvyi Rih,3,National NGO,251302.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,Caritas Nadvirna,3,National NGO,474830.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,Caritas Sambir-Drohobych Diocese UGCC,3,National NGO,436647.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,Caritas Stryi,3,National NGO,456897.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,CF Caritas Mariupol,3,National NGO,105878.0
+CBPF-UKR-24-S-NGO-27465,2024,ICF Caritas Ukraine,National NGO,TRCF CARITAS BUCHACH DIOCESE OF UCCC,3,National NGO,259999.0
+CBPF-UKR-24-S-NGO-27471,2024,Kharkiv Regional Youth Non-Governmental Organisation 'Enlightening  Initiative',National NGO,Charitable Foundation 'Lighthouse of revival',3,National NGO,58564.0
+CBPF-UKR-24-S-NGO-27471,2024,Kharkiv Regional Youth Non-Governmental Organisation 'Enlightening  Initiative',National NGO,GLOBAL2000 to children of Ukraine,3,National NGO,29238.0
+CBPF-UKR-24-S-NGO-27486,2024,Dorcas Aid International Transcarpathia,National NGO,Charitable Fund Nevo,3,National NGO,419910.0
+CBPF-UKR-24-S-NGO-27491,2024,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,Terre des hommes,2,International NGO,590335.0
+CBPF-UKR-24-S-NGO-27491,2024,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,Foundation for Health Protection (NEEKA),3,National NGO,567295.0
+CBPF-UKR-24-S-NGO-27503,2024,The International Charitable Foundation “Alliance for Public Health”,National NGO,Kharkiv charitable fund 'Blago',3,National NGO,330178.0
+CBPF-UKR-25-R-INGO-36903,2025,Danish Refugee Council,International NGO,Charitable Fund “Pomogaem”,3,National NGO,747664.0
+CBPF-UKR-25-R-INGO-36903,2025,Danish Refugee Council,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,768968.0
+CBPF-UKR-25-R-INGO-36903,2025,Danish Refugee Council,International NGO,Humanitarian Aid and Development Centre,3,National NGO,662000.0
+CBPF-UKR-25-R-INGO-36903,2025,Danish Refugee Council,International NGO,LAMPA,3,National NGO,626168.0
+CBPF-UKR-25-R-INGO-36903,2025,Danish Refugee Council,International NGO,League of Modern Women,3,National NGO,192305.0
+CBPF-UKR-25-R-INGO-36903,2025,Danish Refugee Council,International NGO,Public organziation MISTO SYLY,3,National NGO,240379.0
+CBPF-UKR-25-R-INGO-36915,2025,Estonian Refugee Council,International NGO,Charitable Foundation Shchedryk,3,National NGO,184112.0
+CBPF-UKR-25-R-INGO-36915,2025,Estonian Refugee Council,International NGO,Charitable Organization 'Charitable Foundation 'Peaceful Heaven of Kharkiv',3,National NGO,365346.0
+CBPF-UKR-25-R-INGO-36925,2025,Fondazione Terre des Hommes Italia ETS,International NGO,Peaceful Heaven of Kharkiv,3,National NGO,985818.0
+CBPF-UKR-25-R-INGO-36930,2025,People in Need,International NGO,Charitable Organization 'Charitable Foundation 'Peaceful Heaven of Kharkiv',3,National NGO,287515.0
+CBPF-UKR-25-R-INGO-36930,2025,People in Need,International NGO,PUBLIC ORGANIZATION “FISHERMEN CLUB OF UKRAINE”,3,National NGO,289855.0
+CBPF-UKR-25-R-INGO-36944,2025,"Global Emergency Relief, Recovery & Reconstruction",International NGO,DISTRICT 1,3,National NGO,283184.0
+CBPF-UKR-25-R-INGO-36953,2025,Caritas Czech Republic,International NGO,Public Organization Egida-Center,3,National NGO,353386.0
+CBPF-UKR-25-R-INGO-36971,2025,Help – Hilfe zur Selbsthilfe e.V.,International NGO,Public Organization Dobri Dii,3,National NGO,363990.0
+CBPF-UKR-25-R-INGO-36999,2025,Polish Humanitarian Action,International NGO,“Charity Foundation “Stabilization Support Services”,3,National NGO,557200.0
+CBPF-UKR-25-R-INGO-36999,2025,Polish Humanitarian Action,International NGO,Charitable organization Charitable foundation Nove Misto,3,National NGO,251000.0
+CBPF-UKR-25-R-INGO-37006,2025,MTU Mondo,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,188497.0
+CBPF-UKR-25-R-INGO-37006,2025,MTU Mondo,International NGO,Dobrobat - dobrovolchiy budivelnyi batalion,3,National NGO,187584.0
+CBPF-UKR-25-R-INGO-37105,2025,Norwegian Refugee Council,International NGO,Peaceful Heaven of Kharkiv,3,National NGO,40500.0
+CBPF-UKR-25-R-NGO-36902,2025,NEW DAWN,National NGO,DISTRICT 1,3,National NGO,314472.0
+CBPF-UKR-25-R-NGO-36943,2025,Charity Foundation “NEW WAY”,National NGO,Charity Fund 'East Ukrainian Diaspora',3,National NGO,100467.0
+CBPF-UKR-25-R-NGO-36966,2025,CHARITY ORGANIZATION «CHARITABLE FOUNDATION «АNGELS OF SALVATION»,National NGO,TSE - NASHA SPRAVA!,3,National NGO,92626.0
+CBPF-UKR-25-R-NGO-36972,2025,ICF Caritas Ukraine,National NGO,Caritas Donetsk,3,National NGO,631182.0
+CBPF-UKR-25-R-NGO-36972,2025,ICF Caritas Ukraine,National NGO,Caritas Kharkiv,3,National NGO,631621.0
+CBPF-UKR-25-R-NGO-36972,2025,ICF Caritas Ukraine,National NGO,Caritas Kherson,3,National NGO,709657.0
+CBPF-UKR-25-R-NGO-36972,2025,ICF Caritas Ukraine,National NGO,Caritas Kryvyi Rih,3,National NGO,549052.0
+CBPF-UKR-25-R-NGO-36972,2025,ICF Caritas Ukraine,National NGO,Caritas Mykolaiv,3,National NGO,546084.0
+CBPF-UKR-25-R-NGO-36972,2025,ICF Caritas Ukraine,National NGO,CF Caritas Kramatorsk,3,National NGO,575229.0
+CBPF-UKR-25-R-NGO-36972,2025,ICF Caritas Ukraine,National NGO,CF Caritas Zaporizhya,3,National NGO,726241.0
+CBPF-UKR-25-R-NGO-36997,2025,Charitable Organization 'International Charitable Foundation 'Friends' Hands',National NGO,Kharkiv Regional Youth Non-Governmental Organisation 'Enlightening Initiative',3,National NGO,373592.0
+CBPF-UKR-25-R-NGO-37008,2025,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,CF «Development and social justice of Ukraine»,3,National NGO,75615.0
+CBPF-UKR-25-R-NGO-38096,2025,Charitable Organization «RELIEF COORDINATION CENTRE»,National NGO,Kharkiv charitable fund 'Blago',3,National NGO,347809.0
+CBPF-UKR-25-R-NGO-38099,2025,Charitable Organization 'Charity Fund Team4UA',National NGO,PTAHA UKRAINE,3,National NGO,107687.0
+CBPF-UKR-25-R-NGO-38099,2025,Charitable Organization 'Charity Fund Team4UA',National NGO,The non-governmental organization 'Integration Center',3,National NGO,96378.0
+CBPF-UKR-25-R-NGO-38104,2025,ICF Caritas Ukraine,National NGO,Caritas Donetsk,3,National NGO,481731.0
+CBPF-UKR-25-R-NGO-38104,2025,ICF Caritas Ukraine,National NGO,Caritas Kryvyi Rih,3,National NGO,452706.0
+CBPF-UKR-25-S-INGO-34704,2025,"International Rescue Committee, Inc.",International NGO,Charitable Fund 'FORTITUDE UA',3,National NGO,768154.0
+CBPF-UKR-25-S-INGO-34713,2025,Fondazione We World - GVC Onlus,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,190475.0
+CBPF-UKR-25-S-INGO-34713,2025,Fondazione We World - GVC Onlus,International NGO,Peaceful Heaven of Kharkiv,3,National NGO,100118.0
+CBPF-UKR-25-S-INGO-34719,2025,Nonviolent Peaceforce International,International NGO,'NON-GOVERNMENT ORGANIZATION 'RIGHT DIRECTION',3,National NGO,3098.0
+CBPF-UKR-25-S-INGO-34719,2025,Nonviolent Peaceforce International,International NGO,Charitable organization charitable foundation Spravzhni,3,National NGO,85573.0
+CBPF-UKR-25-S-INGO-34719,2025,Nonviolent Peaceforce International,International NGO,CHARITABLE ORGANIZATION CHARITY FOUNDATION HELPING TO LEAVE,3,National NGO,253760.0
+CBPF-UKR-25-S-INGO-34719,2025,Nonviolent Peaceforce International,International NGO,Everything Will Be Fine - Ukraine,3,National NGO,42684.0
+CBPF-UKR-25-S-INGO-34719,2025,Nonviolent Peaceforce International,International NGO,Public Organziation COMMUNITY OF THE OLD TOWN,3,National NGO,105561.0
+CBPF-UKR-25-S-INGO-34719,2025,Nonviolent Peaceforce International,International NGO,Public organziation MISTO SYLY,3,National NGO,19309.0
+CBPF-UKR-25-S-INGO-34719,2025,Nonviolent Peaceforce International,International NGO,Relief Coordination Center,3,National NGO,402800.0
+CBPF-UKR-25-S-INGO-34719,2025,Nonviolent Peaceforce International,International NGO,Ukrainian Bridge of Unity,3,National NGO,515007.0
+CBPF-UKR-25-S-INGO-34721,2025,UK-Med,International NGO,CHARITABLE ORGANIZATION «CHARITABLE SOCIETY «NETWORK 100 PERCENT LIFE DNIPRO»,3,National NGO,578492.0
+CBPF-UKR-25-S-INGO-34724,2025,Lumos Foundation,International NGO,Crisis center of mental health,3,National NGO,196856.0
+CBPF-UKR-25-S-INGO-34724,2025,Lumos Foundation,International NGO,League of Modern Women,3,National NGO,73784.0
+CBPF-UKR-25-S-INGO-34724,2025,Lumos Foundation,International NGO,Public Organization Medical Analitics,3,National NGO,102795.0
+CBPF-UKR-25-S-INGO-34724,2025,Lumos Foundation,International NGO,Strategies and Technologies for Effective Partnership,3,National NGO,163305.0
+CBPF-UKR-25-S-INGO-34726,2025,AVSI Foundation,International NGO,Blagomay,3,National NGO,204200.0
+CBPF-UKR-25-S-INGO-34726,2025,AVSI Foundation,International NGO,Wanted Here NGO,3,National NGO,204200.0
+CBPF-UKR-25-S-INGO-34730,2025,Première Urgence Internationale,International NGO,Charitable Organization “Development Center',3,National NGO,102875.0
+CBPF-UKR-25-S-INGO-34730,2025,Première Urgence Internationale,International NGO,Fight for Right,3,National NGO,126259.0
+CBPF-UKR-25-S-INGO-34732,2025,Triangle Generation Humanitaire,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,285525.0
+CBPF-UKR-25-S-INGO-34732,2025,Triangle Generation Humanitaire,International NGO,We are brothers we are Ukrainian,3,National NGO,270356.0
+CBPF-UKR-25-S-INGO-34737,2025,Fondazione Volontariato Internazionale Per Lo Sviluppo - ETS,International NGO,Association of Organisations for People with Disabilities,3,National NGO,186796.0
+CBPF-UKR-25-S-INGO-34737,2025,Fondazione Volontariato Internazionale Per Lo Sviluppo - ETS,International NGO,STEP-IN UKRAINE,3,National NGO,514029.0
+CBPF-UKR-25-S-INGO-34744,2025,Stichting ZOA,International NGO,Charitable Foundation Shchedryk,3,National NGO,106653.0
+CBPF-UKR-25-S-INGO-34744,2025,Stichting ZOA,International NGO,League of Modern Women,3,National NGO,78021.0
+CBPF-UKR-25-S-INGO-34744,2025,Stichting ZOA,International NGO,NGO Association of Democratic Development,3,National NGO,56316.0
+CBPF-UKR-25-S-INGO-34745,2025,INTERSOS,International NGO,LIGHT OF HOPE,3,National NGO,473373.0
+CBPF-UKR-25-S-INGO-34746,2025,humedica e.V.,International NGO,Charitable Fund 'FORTITUDE UA',3,National NGO,106948.0
+CBPF-UKR-25-S-INGO-34746,2025,humedica e.V.,International NGO,NETWORK OF 100 PERCENT LIFE RIVNE,3,National NGO,200000.0
+CBPF-UKR-25-S-INGO-34751,2025,MEDICAL TEAMS INTERNATIONAL,International NGO,100% Life Kryvyi Rih,3,National NGO,170743.0
+CBPF-UKR-25-S-INGO-34757,2025,Corus International,International NGO,Chernihiv Public Committee of Human Rights Protection,3,National NGO,145883.0
+CBPF-UKR-25-S-INGO-34757,2025,Corus International,International NGO,Infection Control in Ukraine,3,National NGO,489300.0
+CBPF-UKR-25-S-INGO-34757,2025,Corus International,International NGO,League of Modern Women,3,National NGO,276804.0
+CBPF-UKR-25-S-INGO-34757,2025,Corus International,International NGO,Ukrainian Foundation of Public Health,3,National NGO,442179.0
+CBPF-UKR-25-S-INGO-34805,2025,"Global Emergency Relief, Recovery & Reconstruction",International NGO,DISTRICT 1,3,National NGO,443486.0
+CBPF-UKR-25-S-INGO-34805,2025,"Global Emergency Relief, Recovery & Reconstruction",International NGO,Non-Governmental Organization “Spilna Sprava',3,National NGO,308621.0
+CBPF-UKR-25-S-INGO-34810,2025,Help – Hilfe zur Selbsthilfe e.V.,International NGO,Avalist,3,National NGO,1005336.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Charity organisation 'Charitable foundation Light of Goodness K',3,National NGO,14000.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Everything Will Be Fine - Ukraine,3,National NGO,631130.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,NGO YES,3,National NGO,500040.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Okhtyrka Youth Center,3,National NGO,504670.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Public Organization 'Come out and play',3,National NGO,14000.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Public Organization 'Ordinary-Extraordinary',3,National NGO,14000.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Public Organization 'Parents of children with cancer',3,National NGO,14000.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Public Organization 'Pokrovsk Rights Protection Association 'Shchyt'',3,National NGO,14000.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Public Organization 'Siaivo Nadii',3,National NGO,14000.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Public Organization Center for Inclusive art 'ART Parallels',3,National NGO,14000.0
+CBPF-UKR-25-S-INGO-34832,2025,Street Child,International NGO,Zaporizhzhya Charitable Foundation “Jewish Community Center Mazal TOV,3,National NGO,14000.0
+CBPF-UKR-25-S-INGO-34868,2025,Save the Children Fund,International NGO,Avalyst,3,National NGO,87767.0
+CBPF-UKR-25-S-INGO-34868,2025,Save the Children Fund,International NGO,Charitable Organization “Development Center',3,National NGO,1211051.0
+CBPF-UKR-25-S-INGO-34868,2025,Save the Children Fund,International NGO,Southern Development Strategy,3,National NGO,80548.0
+CBPF-UKR-25-S-INGO-35627,2025,Medair,International NGO,Charitable organization Charitable foundation Nove Misto,3,National NGO,56075.0
+CBPF-UKR-25-S-INGO-35627,2025,Medair,International NGO,Dobra Fabryka Ukraina,3,National NGO,74766.0
+CBPF-UKR-25-S-INGO-35627,2025,Medair,International NGO,Peaceful Heaven of Kharkiv,3,National NGO,104566.0
+CBPF-UKR-25-S-INGO-35650,2025,Polish Humanitarian Action,International NGO,CHARITY ORGANIZATION “CHARITY FUND “VOLUNTEERS: ADULTS to CHILDREN”,3,National NGO,214648.0
+CBPF-UKR-25-S-INGO-35650,2025,Polish Humanitarian Action,International NGO,Kharkiv charitable fund 'Blago',3,National NGO,316914.0
+CBPF-UKR-25-S-INGO-35707,2025,Agency for Technical Cooperation and Development,International NGO,CENTER FOR HUMANITARIAN AID “VOLUNTEER-68,3,National NGO,70145.0
+CBPF-UKR-25-S-INGO-35707,2025,Agency for Technical Cooperation and Development,International NGO,NGO 'Responsible Citizens',3,National NGO,27102.0
+CBPF-UKR-25-S-INGO-35716,2025,"International Rescue Committee, Inc.",International NGO,Charitable Organization “Charitable Foundation “Star Ukraine”,3,National NGO,337010.0
+CBPF-UKR-25-S-INGO-35815,2025,Terre des hommes - Aide a l’enfance dans le monde - Fondation,International NGO,CF «Development and social justice of Ukraine»,3,National NGO,71461.0
+CBPF-UKR-25-S-INGO-35815,2025,Terre des hommes - Aide a l’enfance dans le monde - Fondation,International NGO,League of Modern Women,3,National NGO,93457.0
+CBPF-UKR-25-S-INGO-35815,2025,Terre des hommes - Aide a l’enfance dans le monde - Fondation,International NGO,Peaceful Heaven of Kharkiv,3,National NGO,217550.0
+CBPF-UKR-25-S-INGO-36015,2025,Deutsche Welthungerhilfe e.V.,International NGO,NGO 'Responsible Citizens',3,National NGO,46118.0
+CBPF-UKR-25-S-INGO-36015,2025,Deutsche Welthungerhilfe e.V.,International NGO,We are brothers we are Ukrainian,3,National NGO,71846.0
+CBPF-UKR-25-S-INGO-36133,2025,Lumos Foundation,International NGO,PUBLIC ORGANIZATION 'COMMON CAUSE FOR PEOPLE',3,National NGO,93623.0
+CBPF-UKR-25-S-INGO-36133,2025,Lumos Foundation,International NGO,Unity and Strength,3,National NGO,93794.0
+CBPF-UKR-25-S-INGO-36776,2025,Danish Refugee Council,International NGO,Agency for Technical Cooperation and Development,2,International NGO,5140187.0
+CBPF-UKR-25-S-INGO-36776,2025,Danish Refugee Council,International NGO,Nonviolent Peaceforce,2,International NGO,467289.0
+CBPF-UKR-25-S-NGO-34733,2025,Charity Foundation “NEW WAY”,National NGO,Charity Fund 'East Ukrainian Diaspora',3,National NGO,257986.0
+CBPF-UKR-25-S-NGO-34733,2025,Charity Foundation “NEW WAY”,National NGO,LAMPA,3,National NGO,326095.0
+CBPF-UKR-25-S-NGO-34778,2025,Ukrainian Deminers Association,National NGO,Adra Ukraine,2,International NGO,224433.0
+CBPF-UKR-25-S-NGO-34793,2025,ICF Caritas Ukraine,National NGO,Caritas Kamianske,3,National NGO,694070.0
+CBPF-UKR-25-S-NGO-34793,2025,ICF Caritas Ukraine,National NGO,Caritas Kryvyi Rih,3,National NGO,692968.0
+CBPF-UKR-25-S-NGO-34793,2025,ICF Caritas Ukraine,National NGO,Caritas Mykolaiv,3,National NGO,744584.0
+CBPF-UKR-25-S-NGO-34793,2025,ICF Caritas Ukraine,National NGO,CF Caritas Mariupol,3,National NGO,340933.0
+CBPF-UKR-25-S-NGO-34793,2025,ICF Caritas Ukraine,National NGO,CF Caritas Zaporizhya,3,National NGO,1783981.0
+CBPF-UKR-25-S-NGO-34797,2025,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,CF «Development and social justice of Ukraine»,3,National NGO,67277.0
+CBPF-UKR-25-S-NGO-34797,2025,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,NGO 'Center for Social Welfare 'Dobrochyn',3,National NGO,67277.0
+CBPF-UKR-25-S-NGO-34799,2025,Charitable Organization «RELIEF COORDINATION CENTRE»,National NGO,NGO YES,3,National NGO,285815.0
+CBPF-UKR-25-S-NGO-34799,2025,Charitable Organization «RELIEF COORDINATION CENTRE»,National NGO,Non-Governmental Organization “Spilna Sprava',3,National NGO,211807.0
+CBPF-UKR-25-S-NGO-34799,2025,Charitable Organization «RELIEF COORDINATION CENTRE»,National NGO,PTAHA UKRAINE,3,National NGO,93124.0
+CBPF-UKR-25-S-NGO-34807,2025,Non-Governmental Organization Resource Center,National NGO,CHARITY FUND 'WINDS OF CHANGE,3,National NGO,97654.0
+CBPF-UKR-25-S-NGO-34807,2025,Non-Governmental Organization Resource Center,National NGO,Charity organization 'Charity fund 'Stezhka Dodomu',3,National NGO,77208.0
+CBPF-UKR-25-S-NGO-34807,2025,Non-Governmental Organization Resource Center,National NGO,HUMAN RIGHTS ORGANIZATION EHIDA-ZAPORIZHIA,3,National NGO,40000.0
+CBPF-UKR-25-S-NGO-34807,2025,Non-Governmental Organization Resource Center,National NGO,Kharkiv charitable fund 'Blago',3,National NGO,71758.0
+CBPF-UKR-25-S-NGO-34807,2025,Non-Governmental Organization Resource Center,National NGO,National Assembly of Persons with Disabilities,3,National NGO,80943.0
+CBPF-UKR-25-S-NGO-34807,2025,Non-Governmental Organization Resource Center,National NGO,NGO 'UKRAINIAN WOMANITY',3,National NGO,70426.0
+CBPF-UKR-25-S-NGO-34875,2025,CHARITABLE ORGANIZATION 'ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS',National NGO,AGENCY FOR SUSTAINABLE DEVELOPMENT OF THE CITY,3,National NGO,715650.0
+CBPF-UKR-25-S-NGO-34875,2025,CHARITABLE ORGANIZATION 'ALL-UKRAINIAN NETWORK OF PEOPLE LIVING WITH HIV/AIDS',National NGO,NGO Ukrainian Smile,3,National NGO,338400.0
+CBPF-UKR-25-S-NGO-34892,2025,CHARITABLE ORGANIZATION “CHARITY FOUNDATION “EAST-SOS”,National NGO,CENTER FOR HUMANITARIAN AID “VOLUNTEER-68,3,National NGO,131940.0
+CBPF-UKR-25-S-NGO-34892,2025,CHARITABLE ORGANIZATION “CHARITY FOUNDATION “EAST-SOS”,National NGO,CENTER OF SOIAL ADAPTACIE OF MAN WITH DISABILITY ‘OCEAN OF GOOD’,3,National NGO,387960.0
+CBPF-UKR-25-S-NGO-35659,2025,CHARITABLE ORGANIZATION “UKRAINIAN EDUCATION  PLATFORM”,National NGO,CO 'Charitable Fund 'Myrne Nebo Kharkova',3,National NGO,429891.0
+CBPF-UKR-25-S-NGO-36082,2025,CHARITABLE ORGANIZATION “CHARITY FOUNDATION “EAST-SOS”,National NGO,Charity foundation “League of Good”,3,National NGO,280351.0
+CBPF-UKR-25-S-NGO-36258,2025,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,CESVI Fondazione Onlus,2,International NGO,240502.0
+CBPF-UKR-25-S-NGO-36305,2025,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,CF «Development and social justice of Ukraine»,3,National NGO,40758.0
+CBPF-UKR-25-S-NGO-36305,2025,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,NGO 'Responsible Citizens',3,National NGO,120018.0
+CBPF-UKR-25-S-NGO-36321,2025,The International Charitable Foundation “Alliance for Public Health”,National NGO,Kharkiv charitable fund 'Blago',3,National NGO,257688.0
+CBPF-UKR-26-R-INGO-40295,2026,"Global Emergency Relief, Recovery & Reconstruction",International NGO,DISTRICT 1,3,National NGO,550625.0
+CBPF-UKR-26-R-INGO-40316,2026,Estonian Refugee Council,International NGO,Union of Help to Kherson,3,National NGO,114019.0
+CBPF-UKR-26-R-INGO-40316,2026,Estonian Refugee Council,International NGO,UNITY AND STRENGHT,3,National NGO,306542.0
+CBPF-UKR-26-R-INGO-40317,2026,Help – Hilfe zur Selbsthilfe e.V.,International NGO,Public Organization Dobri Dii,3,National NGO,360247.0
+CBPF-UKR-26-R-INGO-40342,2026,Project Hope 'The people to people health foundation' Inc.,International NGO,Non-Governmental Organization “Spilna Sprava',3,National NGO,604016.0
+CBPF-UKR-26-R-INGO-40482,2026,Danish Refugee Council,International NGO,Charitable Fund “Pomogaem”,3,National NGO,600000.0
+CBPF-UKR-26-R-INGO-40482,2026,Danish Refugee Council,International NGO,CHARITY ORGANIZATION CHARITY FOUNDATION «LAMPA»,3,National NGO,900000.0
+CBPF-UKR-26-R-INGO-40482,2026,Danish Refugee Council,International NGO,Humanitarian Aid and Development Centre,3,National NGO,750000.0
+CBPF-UKR-26-R-INGO-NSFT-39308,2026,Agency for Technical Cooperation and Development,International NGO,Charitable Fundation 'New dawn',3,National NGO,104171.0
+CBPF-UKR-26-R-INGO-NSFT-39308,2026,Agency for Technical Cooperation and Development,International NGO,LIGHT OF HOPE,3,National NGO,114422.0
+CBPF-UKR-26-R-INGO-NSFT-39311,2026,Danish Refugee Council,International NGO,International Medical Corps,2,International NGO,4205607.0
+CBPF-UKR-26-R-INGO-NSFT-39311,2026,Danish Refugee Council,International NGO,Charitable foundation 'HUMANITARIAN AID AND DEVELOPMENT CENTER',3,National NGO,750000.0
+CBPF-UKR-26-R-INGO-NSFT-39311,2026,Danish Refugee Council,International NGO,Fishing Club of Ukraine - Uafishing club,3,National NGO,200000.0
+CBPF-UKR-26-R-INGO-NSFT-39311,2026,Danish Refugee Council,International NGO,LAMPA,3,National NGO,300000.0
+CBPF-UKR-26-R-INGO-NSFT-39311,2026,Danish Refugee Council,International NGO,Non-Governmental Organization 'League of Modern Women',3,National NGO,216130.0
+CBPF-UKR-26-R-NGO-40311,2026,Charity Foundation “NEW WAY”,National NGO,CHARITABLE ORGANIZATION &quot;CHARITY FUND &quot;GOODWILL&quot;,3,National NGO,697714.0
+CBPF-UKR-26-R-NGO-40311,2026,Charity Foundation “NEW WAY”,National NGO,Charity Fund 'East Ukrainian Diaspora',3,National NGO,207230.0
+CBPF-UKR-26-R-NGO-40311,2026,Charity Foundation “NEW WAY”,National NGO,CHARITY ORGANIZATION CHARITY FOUNDATION «LAMPA»,3,National NGO,520896.0
+CBPF-UKR-26-R-NGO-40313,2026,CHARITY ORGANIZATION «CHARITABLE FOUNDATION «АNGELS OF SALVATION»,National NGO,TSE - NASHA SPRAVA!,3,National NGO,186763.0
+CBPF-UKR-26-R-NGO-40349,2026,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,CF «Development and social justice of Ukraine»,3,National NGO,47050.0
+CBPF-UKR-26-R-NGO-40349,2026,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,Sumy Public Circle,3,National NGO,133115.0
+CBPF-UKR-26-R-NGO-40972,2026,The International Charitable Foundation “Alliance for Public Health”,National NGO,CHARITABLE ORGANIZATION 'CHARITABLE FOUNDATION 'ALLIANCE MOBILE CLINICS',3,National NGO,19038.0
+CBPF-UKR-26-R-NGO-40972,2026,The International Charitable Foundation “Alliance for Public Health”,National NGO,Charitable Organization 'Charitable Foundation National Agency for Humanitarian Aid ZDOROVI',3,National NGO,654166.0
+CBPF-UKR-26-R-NGO-40972,2026,The International Charitable Foundation “Alliance for Public Health”,National NGO,Charity organisation 'Artesans-ResQ Ukraine',3,National NGO,146108.0
+CBPF-UKR-26-R-NGO-40972,2026,The International Charitable Foundation “Alliance for Public Health”,National NGO,Kharkiv charitable fund 'Blago',3,National NGO,322354.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Charitable Fund 'FORTITUDE UA',3,National NGO,1066160.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Charitable Organization 'Charitable Foundation National Agency for Humanitarian Aid ZDOROVI',3,National NGO,1250627.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,CHARITABLE ORGANIZATION &quot;CHARITY FUND &quot;GOODWILL&quot;,3,National NGO,2803738.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,I Am Saved,3,National NGO,50914.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Posmishka UA,3,National NGO,3738263.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Public Organization 'BASE UA',3,National NGO,116563.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Public Organization 'STRONG BECAUSE FREE',3,National NGO,56075.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,The International Charitable Foundation “Alliance for Public Health”,3,National NGO,513745.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,The Tenth of April,3,National NGO,4659191.0
+CBPF-UKR-26-R-NGO-NSFT-39310,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Unity and Strength,3,National NGO,56015.0
+CBPF-UKR-26-R-NGO-NSFT-39324,2026,Charitable Organization 'Charitable Fund 'The Right to Protection',National NGO,Charitable Foundation Shchedryk,3,National NGO,2438350.0
+CBPF-UKR-26-R-NGO-NSFT-39324,2026,Charitable Organization 'Charitable Fund 'The Right to Protection',National NGO,CHARITABLE ORGANIZATION “CHARITY FOUNDATION “EAST-SOS”,3,National NGO,1741870.0
+CBPF-UKR-26-R-NGO-NSFT-39324,2026,Charitable Organization 'Charitable Fund 'The Right to Protection',National NGO,?haritable Organisation “Charity Foundation “Stabilization Support Services”,3,National NGO,2624379.0
+CBPF-UKR-26-R-NGO-NSFT-39327,2026,CHARITY ORGANIZATION «CHARITABLE FOUNDATION «АNGELS OF SALVATION»,National NGO,"Charity Rokada, Ukraine",3,National NGO,3738318.0
+CBPF-UKR-26-R-NGO-NSFT-39327,2026,CHARITY ORGANIZATION «CHARITABLE FOUNDATION «АNGELS OF SALVATION»,National NGO,Relief Coordination Center,3,National NGO,3738318.0
+CBPF-UKR-26-R-UN-NSFT-39319,2026,United Nations High Commissioner for Refugees,UN Agency,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,1391121.0
+CBPF-UKR-26-R-UN-NSFT-39319,2026,United Nations High Commissioner for Refugees,UN Agency,CUA (ICF Caritas Ukraine),3,National NGO,1400000.0
+CBPF-UKR-26-R-UN-NSFT-39319,2026,United Nations High Commissioner for Refugees,UN Agency,NGO 'Proliska',3,National NGO,1237850.0
+CBPF-UKR-26-R-UN-NSFT-39319,2026,United Nations High Commissioner for Refugees,UN Agency,Right to Protection,3,National NGO,430000.0
+CBPF-UKR-26-R-UN-NSFT-39319,2026,United Nations High Commissioner for Refugees,UN Agency,The Tenth of April,3,National NGO,1152931.0
+CBPF-UKR-26-R-UN-NSFT-39329,2026,World Food Programme,UN Agency,Adventist Development and Relief Agency,2,International NGO,150236.0
+CBPF-UKR-26-R-UN-NSFT-39329,2026,World Food Programme,UN Agency,Charitable Organization 'Charitable Foundation 'Peaceful Heaven of Kharkiv',3,National NGO,82715.0
+CBPF-UKR-26-R-UN-NSFT-39329,2026,World Food Programme,UN Agency,CHARITABLE ORGANIZATION “CHARITY FUND “SPIVDIIA”,3,National NGO,60273.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,Première Urgence Internationale,2,International NGO,934579.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,UK-Med,2,International NGO,788614.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,100 percent Life Zaporizhzhia Network,3,National NGO,99396.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,Charitable Organization 'Charitable Foundation 'Implementation of ideas',3,National NGO,88956.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,CHARITY ORGANIZATION 'CHARITY FUND' BLAGOROB,3,National NGO,52812.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,CUA (ICF Caritas Ukraine),3,National NGO,3428571.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,FreeUA - Free Space,3,National NGO,137605.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,NGO 'Maysternya Dobra',3,National NGO,115569.0
+CBPF-UKR-26-R-UN-NSFT-39560,2026,International Organization for Migration,UN Agency,Non-Governmental Organization 'Successful Woman',3,National NGO,151951.0
+CBPF-UKR-26-S-INGO-38921,2026,Fondazione Volontariato Internazionale Per Lo Sviluppo - ETS,International NGO,Association of Organisations for People with Disabilities,3,National NGO,280327.0
+CBPF-UKR-26-S-INGO-38921,2026,Fondazione Volontariato Internazionale Per Lo Sviluppo - ETS,International NGO,SALESIAN CONGREGATION OF EASTERN RITE IN UKRAINE,3,National NGO,77080.0
+CBPF-UKR-26-S-INGO-38921,2026,Fondazione Volontariato Internazionale Per Lo Sviluppo - ETS,International NGO,STEP-IN UKRAINE,3,National NGO,700043.0
+CBPF-UKR-26-S-INGO-38926,2026,Cesvi Fondazione - ETS,International NGO,100 percent Life Zaporizhzhia Network,3,National NGO,467009.0
+CBPF-UKR-26-S-INGO-38926,2026,Cesvi Fondazione - ETS,International NGO,CHARITY ORGANIZATION 'ANGELS OF SALVATION',3,National NGO,654205.0
+CBPF-UKR-26-S-INGO-38929,2026,Norwegian Refugee Council,International NGO,Agency for Technical Cooperation and Development,2,International NGO,4672897.0
+CBPF-UKR-26-S-INGO-38929,2026,Norwegian Refugee Council,International NGO,Avalist,3,National NGO,626168.0
+CBPF-UKR-26-S-INGO-38929,2026,Norwegian Refugee Council,International NGO,CHARITABLE ORGANIZATION «CHARITABLE SOCIETY «NETWORK 100 PERCENT LIFE DNIPRO»,3,National NGO,130841.0
+CBPF-UKR-26-S-INGO-38929,2026,Norwegian Refugee Council,International NGO,Charity Fund 'Posmishka UA',3,National NGO,1401869.0
+CBPF-UKR-26-S-INGO-38929,2026,Norwegian Refugee Council,International NGO,Fight for Right,3,National NGO,74767.0
+CBPF-UKR-26-S-INGO-38929,2026,Norwegian Refugee Council,International NGO,Right to Protection,3,National NGO,2336449.0
+CBPF-UKR-26-S-INGO-38930,2026,Nonviolent Peaceforce International,International NGO,Charitable organization 'UAO Ukraine Assistance Organization',3,National NGO,78240.0
+CBPF-UKR-26-S-INGO-38930,2026,Nonviolent Peaceforce International,International NGO,CHARITABLE ORGANIZATION CHARITY FOUNDATION HELPING TO LEAVE,3,National NGO,234401.0
+CBPF-UKR-26-S-INGO-38930,2026,Nonviolent Peaceforce International,International NGO,Kherson oblast Charity Fund Mangust,3,National NGO,240059.0
+CBPF-UKR-26-S-INGO-38930,2026,Nonviolent Peaceforce International,International NGO,Public Organziation COMMUNITY OF THE OLD TOWN,3,National NGO,310701.0
+CBPF-UKR-26-S-INGO-38930,2026,Nonviolent Peaceforce International,International NGO,Ukrainian Bridge of Unity,3,National NGO,257470.0
+CBPF-UKR-26-S-INGO-38936,2026,Stichting ZOA,International NGO,Charitable Foundation Shchedryk,3,National NGO,852889.0
+CBPF-UKR-26-S-INGO-38936,2026,Stichting ZOA,International NGO,League of Modern Women,3,National NGO,468235.0
+CBPF-UKR-26-S-INGO-38936,2026,Stichting ZOA,International NGO,NGO Association of Democratic Development,3,National NGO,467396.0
+CBPF-UKR-26-S-INGO-38951,2026,Corus International,International NGO,League of Modern Women,3,National NGO,396160.0
+CBPF-UKR-26-S-INGO-38951,2026,Corus International,International NGO,Ukrainian Foundation of Public Health,3,National NGO,2187560.0
+CBPF-UKR-26-S-INGO-38958,2026,Première Urgence Internationale,International NGO,Charitable Organization “Charitable Foundation 'Mission Kharkiv”,3,National NGO,560748.0
+CBPF-UKR-26-S-INGO-38958,2026,Première Urgence Internationale,International NGO,Charitable Organization “Development Center',3,National NGO,467290.0
+CBPF-UKR-26-S-INGO-38958,2026,Première Urgence Internationale,International NGO,CO «100 PERCENT OF LIFE» DNIPROV  REGION',3,National NGO,560748.0
+CBPF-UKR-26-S-INGO-38958,2026,Première Urgence Internationale,International NGO,Fight for Right,3,National NGO,467290.0
+CBPF-UKR-26-S-INGO-38967,2026,AVSI Foundation,International NGO,Blagomay,3,National NGO,189710.0
+CBPF-UKR-26-S-INGO-38967,2026,AVSI Foundation,International NGO,For the Future of Ukraine,3,National NGO,189710.0
+CBPF-UKR-26-S-INGO-39026,2026,Federation Handicap International,International NGO,Terre des hommes - Aide a l’enfance dans le monde - Fondation,2,International NGO,841122.0
+CBPF-UKR-26-S-INGO-39026,2026,Federation Handicap International,International NGO,NGO Girls,3,National NGO,869604.0
+CBPF-UKR-26-S-INGO-39031,2026,Caritas Czech Republic,International NGO,Public Organization Egida-Center,3,National NGO,788007.0
+CBPF-UKR-26-S-INGO-39056,2026,"Global Emergency Relief, Recovery & Reconstruction",International NGO,DISTRICT 1,3,National NGO,606865.0
+CBPF-UKR-26-S-INGO-39056,2026,"Global Emergency Relief, Recovery & Reconstruction",International NGO,Non-Governmental Organization “Spilna Sprava',3,National NGO,251450.0
+CBPF-UKR-26-S-INGO-39079,2026,Estonian Refugee Council,International NGO,Charitable Foundation Shchedryk,3,National NGO,585307.0
+CBPF-UKR-26-S-NGO-38945,2026,Charity Foundation “NEW WAY”,National NGO,Charity Fund 'East Ukrainian Diaspora',3,National NGO,733141.0
+CBPF-UKR-26-S-NGO-38945,2026,Charity Foundation “NEW WAY”,National NGO,LAMPA,3,National NGO,934580.0
+CBPF-UKR-26-S-NGO-38969,2026,NON-GOVERNMENTAL ORGANIZATION “GIRLS”,National NGO,Public Organization Art of Aid,3,National NGO,93458.0
+CBPF-UKR-26-S-NGO-38997,2026,CHARITY ORGANIZATION «CHARITABLE FOUNDATION «АNGELS OF SALVATION»,National NGO,"Charity Rokada, Ukraine",3,National NGO,2803325.0
+CBPF-UKR-26-S-NGO-38997,2026,CHARITY ORGANIZATION «CHARITABLE FOUNDATION «АNGELS OF SALVATION»,National NGO,Relief Coordination Center,3,National NGO,2803738.0
+CBPF-UKR-26-S-NGO-39085,2026,CHARITABLE ORGANIZATION 'CHARITY FUND 'GOODWILL',National NGO,Charity Fund 'Yellow-Blue Wings',3,National NGO,103388.0
+CBPF-UKR-26-S-NGO-39095,2026,The International Charitable Foundation “Alliance for Public Health”,National NGO,CHARITABLE ORGANIZATION 'CHARITABLE FOUNDATION 'ALLIANCE MOBILE CLINICS',3,National NGO,38639.0
+CBPF-UKR-26-S-NGO-39095,2026,The International Charitable Foundation “Alliance for Public Health”,National NGO,Kharkiv charitable fund 'Blago',3,National NGO,800040.0
+CBPF-UKR-26-S-NGO-39097,2026,NEW DAWN,National NGO,Charitable Organization 'Charitable Foundation 'Revival of the Communities of the South '',3,National NGO,37403.0
+CBPF-UKR-26-S-NGO-39097,2026,NEW DAWN,National NGO,DISTRICT 1,3,National NGO,312663.0
+CBPF-UKR-26-S-NGO-39097,2026,NEW DAWN,National NGO,Public Organization Mental Health Alliance,3,National NGO,43188.0
+CBPF-UKR-26-S-NGO-39113,2026,Charitable Organization 'Charity Fund 'POSMISHKA UA',National NGO,Public Organziatoion “Strategies and Technologies for Effective Partnership”,3,National NGO,438165.0
+CBPF-UKR-26-S-NGO-39119,2026,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,CF «Development and social justice of Ukraine»,3,National NGO,94537.0
+CBPF-UKR-26-S-NGO-39119,2026,Zaporizhzhia Charitable Foundation 'Unity' for the Future',National NGO,Sumy Public Circle,3,National NGO,95401.0
+CBPF-UKR-26-S-NGO-39123,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,CHARITABLE ORGANIZATION &quot;CHARITY FUND &quot;GOODWILL&quot;,3,National NGO,900841.0
+CBPF-UKR-26-S-NGO-39123,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Charitable Organization “Charitable Foundation 'Mission Kharkiv”,3,National NGO,560664.0
+CBPF-UKR-26-S-NGO-39123,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Philanthropy in Ukraine,3,National NGO,26226.0
+CBPF-UKR-26-S-NGO-39123,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Posmishka UA,3,National NGO,2799984.0
+CBPF-UKR-26-S-NGO-39123,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,Public Organization 'BASE UA',3,National NGO,255026.0
+CBPF-UKR-26-S-NGO-39123,2026,Charitable Organization 'Charity Fund Team4UA',National NGO,The Tenth of April,3,National NGO,2797904.0
